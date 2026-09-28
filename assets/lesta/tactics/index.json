@@ -1,0 +1,91 @@
+{
+ "game": "26.10.0.15_517350",
+ "root": "C:/Dev Clients/wotb_26.10.0.176_client.dspkg/Data",
+ "files": {
+  "class-light": {
+   "sprite": "Gfx/UI/BattleScreenHUD/OTM_IconLight@2x.txt",
+   "frame": 0,
+   "scale": 6,
+   "square": 56
+  },
+  "class-medium": {
+   "sprite": "Gfx/UI/BattleScreenHUD/OTM_IconMedium@2x.txt",
+   "frame": 0,
+   "scale": 6,
+   "square": 56
+  },
+  "class-heavy": {
+   "sprite": "Gfx/UI/BattleScreenHUD/OTM_IconHeavy@2x.txt",
+   "frame": 0,
+   "scale": 6,
+   "square": 56
+  },
+  "class-td": {
+   "sprite": "Gfx/UI/BattleScreenHUD/OTM_IconAtSPG@2x.txt",
+   "frame": 0,
+   "scale": 6,
+   "square": 56
+  },
+  "spawn-1": {
+   "sprite": "Gfx/UI/BattleScreenHUD/MinimapRespawn@2x.txt",
+   "frame": 0,
+   "scale": 4
+  },
+  "spawn-2": {
+   "sprite": "Gfx/UI/BattleScreenHUD/MinimapRespawn@2x.txt",
+   "frame": 1,
+   "scale": 4
+  },
+  "spawn-3": {
+   "sprite": "Gfx/UI/BattleScreenHUD/MinimapRespawn@2x.txt",
+   "frame": 2,
+   "scale": 4
+  },
+  "spawn-4": {
+   "sprite": "Gfx/UI/BattleScreenHUD/MinimapRespawn@2x.txt",
+   "frame": 3,
+   "scale": 4
+  },
+  "base": {
+   "sprite": "Gfx/UI/BattleScreenHUD/capturebaseminimapicon@2x.txt",
+   "frame": 1,
+   "scale": 6
+  },
+  "point-a": {
+   "font": "Fonts/Jost-Bold.ttf",
+   "pt": 14.0,
+   "letter": "A",
+   "scale": 6
+  },
+  "point-b": {
+   "font": "Fonts/Jost-Bold.ttf",
+   "pt": 14.0,
+   "letter": "B",
+   "scale": 6
+  },
+  "point-c": {
+   "font": "Fonts/Jost-Bold.ttf",
+   "pt": 14.0,
+   "letter": "C",
+   "scale": 6
+  },
+  "point-d": {
+   "font": "Fonts/Jost-Bold.ttf",
+   "pt": 14.0,
+   "letter": "D",
+   "scale": 6
+  },
+  "point-e": {
+   "font": "Fonts/Jost-Bold.ttf",
+   "pt": 14.0,
+   "letter": "E",
+   "scale": 6
+  },
+  "point-f": {
+   "font": "Fonts/Jost-Bold.ttf",
+   "pt": 14.0,
+   "letter": "F",
+   "scale": 6
+  }
+ }
+}
