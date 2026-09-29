@@ -1,0 +1,41 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "26.10.0",
+ "from": "26.8.1_1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "31_lumber_lm": {
+   "keys": [
+    "lumber",
+    "lumber_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 236
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 97
+   },
+   "effects": {
+    "added": 1,
+    "removed": 2,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "materials": 93,
+    "reexports": 163
+   }
+  }
+ }
+}
