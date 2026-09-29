@@ -1,0 +1,36 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "26.8.1_1",
+ "from": "26.8.0",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "17_karelia_ka": {
+   "keys": [
+    "karelia"
+   ],
+   "terrain": {
+    "area": 1,
+    "max": 0.12,
+    "min": -0.28
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 191
+   }
+  }
+ }
+}
