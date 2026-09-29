@@ -1,0 +1,170 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.21.0_OT",
+ "from": "11.20",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 1,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "terrain": {
+    "area": 160296,
+    "max": 8.76,
+    "min": -7.62
+   },
+   "objects": {
+    "added": 509,
+    "removed": 194,
+    "moved": 307,
+    "reseated": 313,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "trees": {
+    "added": 43,
+    "removed": 7,
+    "moved": 16,
+    "reseated": 2
+   },
+   "effects": {
+    "added": 14,
+    "removed": 3,
+    "moved": 9,
+    "reseated": 1
+   },
+   "gameplay": [
+    "base",
+    "point"
+   ],
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 411,
+    "materials": 236,
+    "textures": 13
+   }
+  },
+  "22_italy_it": {
+   "keys": [
+    "italy"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 2
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 2
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "40_moon_mn": {
+   "keys": [
+    "moon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "modes": {
+    "from": [
+     0
+    ],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {}
+  },
+  "41_iceworld_ic": {
+   "keys": [
+    "iceworld"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "modes": {
+    "from": [
+     0
+    ],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {}
+  }
+ }
+}
