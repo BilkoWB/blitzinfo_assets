@@ -19,6 +19,11 @@
     "reshaped": 0,
     "behaviour": 236
    },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
    "trees": {
     "added": 0,
     "removed": 0,
@@ -36,6 +41,30 @@
     "materials": 93,
     "reexports": 163
    }
+  },
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 24,
+    "removed": 2,
+    "moved": 9
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
   }
  }
 }

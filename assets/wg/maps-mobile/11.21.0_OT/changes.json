@@ -17,9 +17,62 @@
     "reseated": 0,
     "reshaped": 0
    },
+   "walls": {
+    "added": 0,
+    "removed": 83,
+    "moved": 0
+   },
    "trees": {
     "added": 0,
     "removed": 1,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "16_holland_hl": {
+   "keys": [
+    "holland"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 49,
+    "removed": 1,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "17_karelia_ka": {
+   "keys": [
+    "karelia"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 5,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
     "moved": 0
    },
    "gameplay": [],
@@ -41,6 +94,11 @@
     "reseated": 313,
     "reshaped": 0,
     "behaviour": 1
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
    },
    "trees": {
     "added": 43,
@@ -78,6 +136,137 @@
     "reshaped": 0,
     "behaviour": 2
    },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "24_milibase_mlb": {
+   "keys": [
+    "milbase",
+    "milbase_02",
+    "milbase_03",
+    "milbase_04",
+    "milbase_05"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 1,
+    "removed": 34,
+    "moved": 5,
+    "reseated": 2
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "25_canyon_ca": {
+   "keys": [
+    "canyon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 43,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "26_holmeisk_hk": {
+   "keys": [
+    "holmeisk"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 39,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "31_lumber_lm": {
+   "keys": [
+    "lumber",
+    "lumber_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 2,
+    "removed": 15,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "32_faust_fa_night": {
+   "keys": [
+    "faust"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 20,
+    "moved": 2
+   },
    "trees": {
     "added": 0,
     "removed": 0,
@@ -98,6 +287,35 @@
     "reshaped": 0,
     "behaviour": 2
    },
+   "walls": {
+    "added": 13,
+    "removed": 105,
+    "moved": 4
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "35_rift_rt": {
+   "keys": [
+    "rift"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 55,
+    "moved": 0
+   },
    "trees": {
     "added": 0,
     "removed": 0,
@@ -116,6 +334,11 @@
     "moved": 0,
     "reseated": 0,
     "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
    },
    "trees": {
     "added": 0,
@@ -146,6 +369,11 @@
     "moved": 0,
     "reseated": 0,
     "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
    },
    "trees": {
     "added": 0,
