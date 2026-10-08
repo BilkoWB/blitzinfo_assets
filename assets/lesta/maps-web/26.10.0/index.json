@@ -3,7 +3,7 @@
  "client": "lesta",
  "version": "26.10.0",
  "game": "26.10.0 (26.10.0.15)",
- "templates": "a7d3ec646c3d5129910818d6cff6dec5",
+ "templates": "38e9d17ba1d043cf0886c100ed2d8044",
  "maps": [
   {
    "key": "karelia",
@@ -15457,7 +15457,7 @@
   {
    "key": "glacier_br",
    "id": 74,
-   "folder": "42_glacier_gl",
+   "folder": "42_glacier_br",
    "tags": null,
    "modes": [
     0,
@@ -16199,7 +16199,7 @@
   {
    "key": "mars_br",
    "id": 76,
-   "folder": "01_mars_mr",
+   "folder": "01_mars_br",
    "tags": null,
    "modes": [
     0,
@@ -20714,6 +20714,133 @@
     "tile": 512,
     "env": 1024,
     "other": 512
+   }
+  },
+  "42_glacier_br": {
+   "fp": "0c2feb2eaa156b1a8ef929ea612158e1",
+   "pic": "5c955ded68ad33595cd5a8e3f4a89831",
+   "land": {
+    "bbox": [
+     -600.0,
+     -600.0,
+     0.0,
+     600.0,
+     600.0,
+     100.0
+    ],
+    "size": 1024,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "38b889312473bb85f905f2c7ebd2b8de",
+    "mid": "b474165030193b93324d6044e9811abf",
+    "small": "8afc038b0c41bb826f59bbff676f407b",
+    "rect": [
+     -540,
+     -540,
+     540,
+     540
+    ]
+   },
+   "scene": "a60ceadfb5ef355be78d9b83a384d1d7",
+   "geom": "ddf2577c1191e8bc60853e80e21b2442",
+   "hm": "15c106c07e7ec36d591470b076135972",
+   "flora": null,
+   "gameplay": "f56df0b7652c22377ce28d4d4029863e",
+   "inst": "09e1b03cc717f892a267ce380f98f279",
+   "packs": [
+    "595bd049f690faf864caafcb80e80654",
+    "5db2312ab71a6e9282c0851222c2ccee",
+    "68327697eccc474687a99f46b327cf53",
+    "bf19df17e55231262dd33c7ecf66d392"
+   ],
+   "bytes": 47517977,
+   "caps": {
+    "color": 512,
+    "normal": 256,
+    "data": 256,
+    "light": 1024,
+    "land": 2048,
+    "tile": 512,
+    "env": 1024,
+    "other": 2048
+   }
+  },
+  "01_mars_br": {
+   "fp": "af871e42582c5b1f555dbcca6e74a04d",
+   "pic": "b8e9fae0c8e6e0250b14d87c1342b20e",
+   "land": {
+    "bbox": [
+     -600.0,
+     -600.0,
+     0.0,
+     600.0,
+     600.0,
+     100.0
+    ],
+    "size": 1024,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "40533e5a93cf1a88d05d030acf93cd71",
+    "mid": "2d8a6b41d50bef238854807f8d3d2ff4",
+    "small": "cb77c0e901ca782bdcdd20b8d1f36ea5",
+    "rect": [
+     -540,
+     -540,
+     540,
+     540
+    ]
+   },
+   "scene": "b267ccf9c5b9ba0e1a4c48c04e80bce3",
+   "geom": "e61808b6b947768af80c9372bedfe557",
+   "hm": "64e6dd98c846e35a273824a0bc0c8aab",
+   "flora": null,
+   "gameplay": "95a4072b1020ff39fea4025f355a39d3",
+   "inst": "59ec83a82f305e742f9fca880f2165c1",
+   "packs": [
+    "7491b2cfe88aa75390c13b0de81f4b98",
+    "b062d713441e36e188f9d832d4816bb0",
+    "bc36ed8a282358deef983e9246196523",
+    "df9e2c0e9f5c3caf80349b6f41223836",
+    "ea8c5d6f8940f88dba9fdd61240ec88d"
+   ],
+   "bytes": 50195122,
+   "caps": {
+    "color": 512,
+    "normal": 256,
+    "data": 256,
+    "light": 4096,
+    "land": 4096,
+    "tile": 512,
+    "env": 1024,
+    "other": 2048
    }
   }
  },
