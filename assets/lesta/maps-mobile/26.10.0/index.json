@@ -3,7 +3,7 @@
  "client": "lesta",
  "version": "26.10.0",
  "game": "26.10.0 (26.10.0.15)",
- "templates": "38e9d17ba1d043cf0886c100ed2d8044",
+ "templates": "cf829a242c66e0418ada775732dd1244",
  "maps": [
   {
    "key": "karelia",
@@ -18431,2262 +18431,8 @@
   }
  ],
  "folders": {
-  "01_mars_mr": {
-   "fp": "738948b26f923eee804e4f026b2c71b8",
-   "pic": "397dd1196cf81586c7cf9f015cd73fb1",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "6bb00bb953d6b0e333837eb15665c236",
-    "small": "2c6b6984aa2bf7b053e20673348a8707",
-    "rect": [
-     -287.04,
-     -284.04,
-     281.04,
-     284.04
-    ],
-    "mid": "94304baced04c6dcb84ef56a2088d477"
-   },
-   "scene": "045fd26a628e48828b418a2c490e2d00",
-   "geom": "49d9f58117d908f2a53c7e20258a80a7",
-   "hm": "c73ee3f767b82403d04c7dd139097e0d",
-   "flora": null,
-   "gameplay": "77375df02ad4f618e02c9bb78f282edc",
-   "inst": "345e04a4ad5acdee6ef2f8688fa970e7",
-   "packs": [
-    "4521092437dcbe1a8549620c3f03c5be",
-    "e943e0bbf2bda23402c0daa464d6cbd4"
-   ],
-   "bytes": 13234912,
-   "caps": {
-    "color": 256,
-    "normal": 0,
-    "data": 128,
-    "light": 512,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 256
-   }
-  },
-  "02_desert_train_dt": {
-   "fp": "f3807530fa24906c583fe71d938ba63c",
-   "pic": "dbbe5a3baac652ad2eddb8bacb767a45",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "c367d588fe54da4d05f8d7472bd278ed",
-    "small": "db1f51e4bf9d6b8e59a7865b44e6eda0",
-    "rect": [
-     -276.64,
-     -276.99,
-     280.64,
-     280.29
-    ],
-    "mid": "a87c4b8de206fca6cdec0c2cd53338ee"
-   },
-   "scene": "1059fe2eabed7d57223c1753eba2c040",
-   "geom": "a677c899c68428d91bc24951733c5c4f",
-   "hm": "308abb064708d3748dd4f28318f791a9",
-   "flora": "8978ee525705bb20b862d50b6600a282",
-   "gameplay": "0de02360c9ce2e161d272885ec5cbb37",
-   "inst": "3709fab85643b2522895436020d01f71",
-   "packs": [
-    "79c106ab7fa1499f66e7b0c1c45be7c6",
-    "c92d26f1830001922a475d144425a499"
-   ],
-   "bytes": 14361041,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 128,
-    "light": 1024,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 256
-   }
-  },
-  "03_erlenberg_er": {
-   "fp": "1566763a1754b6953b5e33ef8b5467b5",
-   "pic": "90e2dc64105bc97c501a3cd4ee44b056",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     150.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "51e439bc846a894286169d656978493a",
-    "small": "c1a23cd719cc4818209c367845e9feb0",
-    "rect": [
-     -262.44,
-     -256.49,
-     263.84,
-     269.79
-    ],
-    "mid": "92d67379bf7161b9b15f44d1b0938f74"
-   },
-   "scene": "cf3cc635789ec2b8a8c4995b092059c1",
-   "geom": "631766042545a49ddd40be5ded4a8b2f",
-   "hm": "2aa0b11616c9e190110326a1d555d4bc",
-   "flora": "7bb5c4f6be775aec45c6f529ccbcdb63",
-   "gameplay": "0051fc72d94d5488d2f945a6d59fd1ac",
-   "inst": "9b34b10de0afb46b05a12dc6e7dd483b",
-   "packs": [
-    "1ed749ab3f2d3d657837937852d21518",
-    "dd5509075b39189631552b48f55516db"
-   ],
-   "bytes": 15313984,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 128,
-    "light": 512,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "04_medvedkovo_md": {
-   "fp": "d535c96640b282a40351b36b7f1bb35a",
-   "pic": "e33a384ee03ce7c91f579d202fd06880",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     70.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "595aca274889ed525f095e17c3cf5e18",
-    "small": "d96b631ac1f7a564b15d6cc4ef3a4aa6",
-    "rect": [
-     -284.66,
-     -284.71,
-     285.36,
-     285.31
-    ],
-    "mid": "06cf0acc0ccc402c321ba4779b591c44"
-   },
-   "scene": "9aa898e55f7fb7d9d40e37da32158210",
-   "geom": "05657fc197d8d40ba54051bfefa1dcfd",
-   "hm": "f39c22756603e393cb3cbb3573a286d1",
-   "flora": null,
-   "gameplay": "99d4249c840143ff1862783bae6d8f36",
-   "inst": "bad2b925a2f0e6d16a5dd0c63c8bf668",
-   "packs": [
-    "867307701cfda8ee168bacbf5031ab42",
-    "a1a5587ed8dd172e071008e429bd1f03"
-   ],
-   "bytes": 14914035,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 256,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "05_amigosville_am": {
-   "fp": "e1a19ee4357a7cebaad8397052dee11b",
-   "pic": "6bfaaad1383e091457c6fdf03dc97bb4",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     50.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "051ce4eb72780aefdecba49022d88f22",
-    "small": "21179abfe851b1350f4de588be98b5d5",
-    "rect": [
-     -276.86,
-     -277.26,
-     275.46,
-     275.06
-    ],
-    "mid": "b3440a69858a9f356096cb622a7492fe"
-   },
-   "scene": "32251e9c59cd1abb9b75d19dedf0c22a",
-   "geom": "ea2a3e9c84e7173f8bc0bd34994dc45e",
-   "hm": "53c5fb7faf40d19f2977647cf33f87a6",
-   "flora": null,
-   "gameplay": "88eb6283c7398e90874f58819b48dfe5",
-   "inst": "147e9405bb82c2ef13e752ff17bf6413",
-   "packs": [
-    "67611e88b81eacf391cccb46d619f884",
-    "daf0bf7e533e1def2c7b286f142c75ef"
-   ],
-   "bytes": 13715937,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "06_rudniki_rd": {
-   "fp": "8d9db731f39d7985e4d81d62fb86f05e",
-   "pic": "d4c6abef479473235f7cba8554b1f080",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     135.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "3459e94b698f4de6257ff20792f5d03a",
-    "small": "2f030bcc53e07a21813109126095d1ff",
-    "rect": [
-     -266,
-     -259.3,
-     260.6,
-     267.3
-    ],
-    "mid": "6448fe60b7bb89f686884e5e0e2bdbc9"
-   },
-   "scene": "0116e4dd12a8323304ed18fc4a582fa0",
-   "geom": "98264a30d7cdc0f18e3c3718cb589e01",
-   "hm": "70e826b903d9de77ecd43c56fdb46d03",
-   "flora": null,
-   "gameplay": "3c9dbfac5ec06938545842cc10b6d1af",
-   "inst": "1c1d623a96d160f3d128ec7c195319b9",
-   "packs": [
-    "39be0823ceee005d64cf77f3421555a5",
-    "8df9dc0ed63f2eb381ebffe86878ffae"
-   ],
-   "bytes": 14511476,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "07_fort_ft": {
-   "fp": "2d9ea26a4ca782cc8cddb639335fd71d",
-   "pic": "456cfe16229ee37d73d726210fc149a1",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     70.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "234d98f946695a8ae733e781c6e13125",
-    "small": "6881b6cf3da4a0f672b62200b69f5fa3",
-    "rect": [
-     -253.9,
-     -253.7,
-     253.8,
-     254
-    ],
-    "mid": "cf2210b625e0bf3f5e797dcbe97a8711"
-   },
-   "scene": "d6d1d36fd427a714de2e451abef80a0a",
-   "geom": "c0f0704a4142a8d4dbe0c2e9e33f5766",
-   "hm": "65fe4e2eb283c6df1ec95f4a1f7341f2",
-   "flora": null,
-   "gameplay": "35bdddc9e12432477d59c79d5f14c100",
-   "inst": "5e66ae2404185e3a40158f36c58a9de2",
-   "packs": [
-    "77cb775c4c0d030ab13f8a9cb47f22e6",
-    "e11a9aed0870be87f0ebb12f30c62e2b"
-   ],
-   "bytes": 14744353,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "08_idle_id": {
-   "fp": "3491f8535f32672980e264b99dd9ddd8",
-   "pic": "ab66f09ad8faa65d922a5a7c6c2652b3",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     150.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "359388fb21f50b1d3e0a9ccea75598a4",
-    "small": "9e68a6e43359bfd2753853fb90c8bd3f",
-    "rect": [
-     -291.27,
-     -292.17,
-     283.07,
-     282.17
-    ],
-    "mid": "a0a09621362b1bd5e0a3f491abaa6ad2"
-   },
-   "scene": "216b03a5fe57d13bcff3806e9024825b",
-   "geom": "67aa8dd5a4cfb32c63bd77229a117be6",
-   "hm": "8eb2df1e7a125638ed98e510958394b9",
-   "flora": null,
-   "gameplay": "99b1586d257aaf84502227474f06eb77",
-   "inst": "cd846abf7fc92a322948b54b371d9851",
-   "packs": [
-    "16b19b67db5afb5c21b5e16c28ef7334",
-    "b9f6c1d78de634e4bd8b6361bcd1609d"
-   ],
-   "bytes": 15256461,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "09_savanna_sv": {
-   "fp": "71bb0f95e7fa1d5b71d772d07206cdf0",
-   "pic": "ea48e5d5745a318b8d173757ad82f448",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     80.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "fa93f64fe805afc919ee8a3c98b8beee",
-    "small": "f39b26c28e4115794ae128f7c3dba34e",
-    "rect": [
-     -287.57,
-     -287.92,
-     288.07,
-     287.72
-    ],
-    "mid": "436937e75cb62f9fbaab8b48e2e0e587"
-   },
-   "scene": "9b75dbd50b63931372a9d4cc4a0fb4aa",
-   "geom": "e0de6520d2adc1c4deba40227043f72e",
-   "hm": "d33d047b1603272ecb5e35160eb8c21a",
-   "flora": null,
-   "gameplay": "dd2346ae0f2052be7e6930a5d76ef8e2",
-   "inst": "3236582ef43e756851bdd8a3c5e7c368",
-   "packs": [
-    "03ee92bff74d9f8071cb872531e3760f",
-    "39117fbbfa50e01c05646afaea781df8"
-   ],
-   "bytes": 10090155,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "11_plant_pn": {
-   "fp": "563688a21f2a811f2f7e160c9c57c285",
-   "pic": "29135f9f71ad5349c9935fc3a37cf361",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     80.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "c2181b8b0d50e65a46cde4d2666d8af8",
-    "small": "72c013d77071a302d440ceceef98b8a9",
-    "rect": [
-     -281.11,
-     -284.21,
-     288.81,
-     285.71
-    ],
-    "mid": "d6d903fc14416167857a18f9f2756960"
-   },
-   "scene": "bf15ce02fd695bf00bdab7e4c32c3e19",
-   "geom": "a7c95701f11bb3f042e7a2c487bc5bd5",
-   "hm": "d5305832bd239b1679e74656d754a3d5",
-   "flora": null,
-   "gameplay": "8bcf9de7402f76d2a71e7462066b7994",
-   "inst": "49c686568b1ba7e4e300f3de8e8957ef",
-   "packs": [
-    "525e43de61fc664113e5e3daf715aed6",
-    "ba280e803b13f543d65845343b0b4f97"
-   ],
-   "bytes": 14469916,
-   "caps": {
-    "color": 256,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "12_malinovka_ma": {
-   "fp": "ef518293bd0bfcd48bb19792624384af",
-   "pic": "a6632dff348e8388c703df54384f109b",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     60.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "4e7852033990ab0a2a4d042e5a6d004f",
-    "small": "7dbeeac319515ec3bbe2b19e9ec2dba8",
-    "rect": [
-     -291.53,
-     -291.08,
-     291.23,
-     291.68
-    ],
-    "mid": "105fd525a5e64f11f66ac5e29f8ff34b"
-   },
-   "scene": "99886cacfd9a2894e158013a5354dce3",
-   "geom": "5d3324eb768ff76aee4245d915c87282",
-   "hm": "095bc4327fbf5e16883603c847cafc08",
-   "flora": null,
-   "gameplay": "9c44ea0b1631d76fdb734f039d346385",
-   "inst": "cc166fcff1fb2c8f66287570ace9821d",
-   "packs": [
-    "9386e40f271b8df6c8d2d734addceeae",
-    "d7250faf2cd8bb95d024e51668a0c034"
-   ],
-   "bytes": 15477675,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "13_pliego_pl": {
-   "fp": "77cf0097e6a25700fc9bf8d59327e545",
-   "pic": "3dc720d08c996d50dbe66976f24871e0",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     50.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "e22fb35993f5db9513d810ca5ee3a7cd",
-    "small": "deb2271a8d8cc400c65724963d7f546d",
-    "rect": [
-     -280.77,
-     -284.17,
-     277.27,
-     273.87
-    ],
-    "mid": "1252f9c4616852b44b573863d4e7c80c"
-   },
-   "scene": "9f46c29512286d894e4ce05cbf5fef7f",
-   "geom": "dc95b680a39e0c8e5214bd7a12bbe80b",
-   "hm": "d13d568f6a1458b5ee3eaff6a5d09676",
-   "flora": "2b0db78f2232221baa6fcdc39d3a96c3",
-   "gameplay": "5e55be000e2a4b71e2ea4a8c142fa9e5",
-   "inst": "5e937a335eecb0464f7d7d7c86a29d75",
-   "packs": [
-    "752eb0eeadeeb98ca417bd8ef424deff",
-    "9b1d850687bc4c7ea3f80010796f3308"
-   ],
-   "bytes": 14238308,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 128,
-    "light": 1024,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "14_port_pt": {
-   "fp": "8d6b136fd837f09d80894fda80176e84",
-   "pic": "0199b28c618e95f0c5413be4d5b28419",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     70.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "c6a8ce554c3a7e81f8326c9f7fe63839",
-    "small": "37cc6d1b37ff731be276896939500a9e",
-    "rect": [
-     -292.32,
-     -291.72,
-     291.42,
-     292.02
-    ],
-    "mid": "126d82b2a520eb164c00ce41103b89d5"
-   },
-   "scene": "00aae8d1794e1dca71b94070692fcacb",
-   "geom": "50863e8bb2e54900b748af267e107db4",
-   "hm": "4efc2e2f8a89fa92e26e3459e8bac6be",
-   "flora": null,
-   "gameplay": "f1a30e222359b53e99e9878bc4a92813",
-   "inst": "f0afa5f7a4539fc742f008e2f7b8f415",
-   "packs": [
-    "0ae8f9f81a52b2f2c746daddf80ae37f",
-    "5356bbe508edd1acfe02aeed70c4ebf6"
-   ],
-   "bytes": 10150026,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 256,
-    "light": 1024,
-    "land": 1024,
-    "tile": 512,
-    "env": 128,
-    "other": 256
-   }
-  },
-  "15_lagoon_ln": {
-   "fp": "1d1c790aaf5452a8f5a14285020cfd4f",
-   "pic": "dc449763bb53ef37f4bf42d6d62b298d",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "77af9b7c036db4347ee91d684270108d",
-    "small": "bb41d618814b4cbc340661080572015b",
-    "rect": [
-     -291.2,
-     -281.2,
-     281.2,
-     291.2
-    ],
-    "mid": "6ffa83ca41f1115a479966c95c19f170"
-   },
-   "scene": "d99a63bb35a493c1d491f70b72cd8943",
-   "geom": "48ec3cf7f1e336229c11d6d2fc8a17ea",
-   "hm": "a09b247ddb337c605894ca8e86aaf779",
-   "flora": "8d0952c6f7b2a64b07d3820ce5bb3f1e",
-   "gameplay": "10bce30f607127fdaff41f49c71232e9",
-   "inst": "7d2f0fe7a5e72e3e448b3d6f75fa3451",
-   "packs": [
-    "70291b4104a2d1f4cb0e95bd2cec808e",
-    "a00c6834755f185063f35f3717f731d7"
-   ],
-   "bytes": 14244808,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 128,
-    "light": 1024,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 256
-   }
-  },
-  "16_holland_hl": {
-   "fp": "68d1c4743d2cf9f0837c9512bffe83a5",
-   "pic": "7c7f71c4fb9396f8d8028ca50d66127f",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     80.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "69732deb4a7785cb8acf42bf8ff146c6",
-    "small": "0541cff2bc3e523eeca4ff2589725c6f",
-    "rect": [
-     -280.73,
-     -281.08,
-     288.33,
-     287.98
-    ],
-    "mid": "444bb2cbb2d7a02e40ee052a95c98e69"
-   },
-   "scene": "bd999e3161f52369a1f877adda83beae",
-   "geom": "0b344e166f28660d610c155fca7a2a76",
-   "hm": "9360e45f50ab1a5537382b5a0c1bd59a",
-   "flora": null,
-   "gameplay": "3ea0767502308e991c79008734f72897",
-   "inst": "3c78bfe6c71c70c5e0dfa7bb18d2bf15",
-   "packs": [
-    "12c9cf4c5dc3e7c3fbaf69e48011c4dd",
-    "3f4a6a93419355d306721dd5c201b655"
-   ],
-   "bytes": 15579818,
-   "caps": {
-    "color": 256,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "17_karelia_ka": {
-   "fp": "c5a1d02e8173c894d992dbdf0cd7d216",
-   "pic": "9df08a0621fbb3839db96bf4df349609",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "f677569c28c1805bd5c986f22f52771c",
-    "small": "fa73210ce8028d07ef16b958a780939c",
-    "rect": [
-     -282.31,
-     -284.36,
-     287.71,
-     285.66
-    ],
-    "mid": "4a3d925fc4dd83318a7efda7cee8c722"
-   },
-   "scene": "59d743a0d056e6dbfeaf5bfe76e768e3",
-   "geom": "1458f9382e6ec958f0397a0588dbcfe5",
-   "hm": "a226167b7ba916d2941549e990cad8f7",
-   "flora": null,
-   "gameplay": "efa14440164fe406e75eb6b8cc084557",
-   "inst": "0d66d19139767e22090e0ccadecc85cc",
-   "packs": [
-    "95f5816d7288ae6e6da068724b62bfe8",
-    "cebfefc0e54023f177a27734e605fb8e"
-   ],
-   "bytes": 11622453,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "18_canal_cn": {
-   "fp": "d5aeebb00c44a31cc810f7a910a0a182",
-   "pic": "3646be6f06a3817724d2af7dc9954c9c",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     140.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "ae91f8937ab34a7a0718c9453ee4a32b",
-    "small": "121d9998c19cdf26d25a6ad70f29ced1",
-    "rect": [
-     -285.85,
-     -283.75,
-     285.15,
-     287.25
-    ],
-    "mid": "7526cbb75958431fae894508ebe099b1"
-   },
-   "scene": "b81251caab83cc19d56a74efc83b1b59",
-   "geom": "8aacae387767421c1a86cd4ccc85a96d",
-   "hm": "680e9ca8ed2945d84c661ab3bdd8b821",
-   "flora": null,
-   "gameplay": "a4d01ec674c760df7d0d74128b802eb3",
-   "inst": "aae2f452db59b623b5a9554bc63240b8",
-   "packs": [
-    "8743bc742407b70aa16f1489bbde8971"
-   ],
-   "bytes": 9369823,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 256,
-    "light": 1024,
-    "land": 1024,
-    "tile": 512,
-    "env": 128,
-    "other": 256
-   }
-  },
-  "19_himmelsdorf_hm": {
-   "fp": "5b448e83e39a3e8d3faf629e723f0644",
-   "pic": "52d212c6f97772fcf881a682de5c5c38",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     70.0
-    ],
-    "size": 1024,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "d635dbd1bbfadfe3dd316beaca8aea46",
-    "small": "c2f7c85748cd7d59cf032541d31b933b",
-    "rect": [
-     -293.8,
-     -307.8,
-     321.8,
-     307.8
-    ],
-    "mid": "9b2274ec07b29834ec81984d8897242a"
-   },
-   "scene": "c434fdbf7af96e87a6f22f5e1797ab29",
-   "geom": "6ddae955d13bf2b79c3634d55cbe22be",
-   "hm": "410203a3c1c6d97c95ec7b3620a1c06b",
-   "flora": "0ad81fcd3c4a227752c8471d60779345",
-   "gameplay": "21ff2e6479d089ea25a82150b29da76b",
-   "inst": "a552ddd10f155449684f46d6390148b5",
-   "packs": [
-    "8b943e34ab54fdeb7c9caba100667617"
-   ],
-   "bytes": 15160950,
-   "caps": {
-    "color": 128,
-    "normal": 0,
-    "data": 128,
-    "light": 256,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 512
-   }
-  },
-  "20_cybermap_cb": {
-   "fp": "a01b798368544f890dd4fa0036577ec4",
-   "pic": "4506d6a73245309710ea1c7f7534f5e4",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     50.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "18af3002ffc4ae0195d9fc68a84f2afe",
-    "small": "5ca56f30152a4b98b02026cf05853d62",
-    "rect": [
-     -324,
-     -324,
-     324,
-     324
-    ],
-    "mid": "370e5fb6340d31f1044d7adbef37a76d"
-   },
-   "scene": "fa9db16f31e0402bdd5e4d7f97ca3a17",
-   "geom": "405b0157d6e499417e6f014d6de64479",
-   "hm": "294f5143bc9ad38add2a00efb9e3afe5",
-   "flora": "0a1499683359bf3bd0865d64acfe7a31",
-   "gameplay": "4d11c5dae1be2273d40c9bd3cd42d5d1",
-   "inst": "b89581207a59e91d0bf0f96e2bf08a74",
-   "packs": [
-    "95688f556ce0e92c83fcc163cab079f9",
-    "f3de31ac9fcce2b28cf3f21e3bb494b8"
-   ],
-   "bytes": 13916565,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 256,
-    "light": 1024,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "21_mountain_mnt": {
-   "fp": "a9c4f4581304801d292189a73e74dc53",
-   "pic": "fcada2e39dd89eaa5664ca1ba1ca773d",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     120.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "d326c5bb566662aaba717de2ddc6b673",
-    "small": "83158b9637c2ce946cfb48ca0e61579e",
-    "rect": [
-     -279.39,
-     -299.09,
-     295.39,
-     275.69
-    ],
-    "mid": "a3c91437718b73fa52824d1e0c45159e"
-   },
-   "scene": "cd869784b78edd38232b38961760fd21",
-   "geom": "20770b107acdd59bda7f85f1ad7866ab",
-   "hm": "04bbd6ede2504bde0bba3dad6b3b0944",
-   "flora": null,
-   "gameplay": "0e1400c0258afb6ff45e91aa11380efe",
-   "inst": "70fabb46785163e949de8745a85eedab",
-   "packs": [
-    "69855e5ce26555e590a9e8e3a3afe59c",
-    "aa34abe91d1d2cf3fc53d58d08b2cf23"
-   ],
-   "bytes": 14194214,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "22_italy_it": {
-   "fp": "5c943f0019d0953417aca91536ddecbe",
-   "pic": "fe01b3bdfc7a75282c14b4c6a90ee010",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     150.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "2c22e68f557821d3062f457ebdfc7f65",
-    "small": "e68adec359d82b730656882ecddf2e91",
-    "rect": [
-     -269.78,
-     -269.43,
-     269.58,
-     269.93
-    ],
-    "mid": "aed9b1fcec91e25fdf59ba68dc3a068e"
-   },
-   "scene": "80e0359a301c20ff5679be54026cd82c",
-   "geom": "ab44575fe10cf56bdfa987cd3211b259",
-   "hm": "6b98773f98bd2fd2be4e6e1f514f8d03",
-   "flora": null,
-   "gameplay": "f38f1a9eceb751178b065f7146851aaa",
-   "inst": "cd318e3c6a2cff5ceb711bc9622105ea",
-   "packs": [
-    "3f81d3bc264a4672bdf284f6e965a2f2",
-    "78ed2cef18488fd64cbb55f5290d44d3"
-   ],
-   "bytes": 13301649,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "23_karieri_kr": {
-   "fp": "2006b15042760e2a12f04733a915df75",
-   "pic": "f7f7154e7016aab42fff2e6f915ef604",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     120.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "745996dd687220d2e60dee1bebdef149",
-    "small": "87d06b5ab2c851db0e57b6cdab7ce0fe",
-    "rect": [
-     -249.8,
-     -241,
-     268.7,
-     277.5
-    ],
-    "mid": "d0b62cf68215fd4aa756fcd0408b8b23"
-   },
-   "scene": "524a223239423d36c6d798fb0e947390",
-   "geom": "2b2289705808904742defa8356ff8409",
-   "hm": "846a06ddb4352114600e6ebe424d53d7",
-   "flora": null,
-   "gameplay": "6565d593d057e99cc45e08988600f0be",
-   "inst": "19706b68036d393c0c4af1895cbd15f3",
-   "packs": [
-    "010905f2ed33aabb57d024d047b16be5",
-    "6790c2d7845f798c1b52218302dbeff6"
-   ],
-   "bytes": 12452005,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "24_milibase_mlb": {
-   "fp": "5c3a9b4e70ccd21baef4890ebc8b7557",
-   "pic": "3a23d9aa6438779274d12855bc40e1b4",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     80.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "5997671a0ba0e8b92d7afaca7785381b",
-    "small": "6fc33c33f54e0c82e22e4142385d706a",
-    "rect": [
-     -284.82,
-     -285.07,
-     285.32,
-     285.07
-    ],
-    "mid": "284c15181fb65f7d78996510ccee31a0"
-   },
-   "scene": "d5957abe36922835881973ec061b8c88",
-   "geom": "0b7805307558fd57bbed81a3a992390a",
-   "hm": "8d17f76b41c527eb8e8cb1f97c772637",
-   "flora": null,
-   "gameplay": "316a9f49d7c026a5ae5af9897f235c04",
-   "inst": "397e135aafd01f212f57128f95068865",
-   "packs": [
-    "59aa5dea219e7c8750f9254bdcc1e564",
-    "a4a5c3d56e15be79d39fd568c339455e"
-   ],
-   "bytes": 11959214,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "25_canyon_ca": {
-   "fp": "76847a69b7a2dbb544e074b25532a1d9",
-   "pic": "cbc874cf3e4687246b8bcb0579c1090f",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "021e90b73fb7b697bd957d77432e31f4",
-    "small": "d527153361201d91a7083be20de97c46",
-    "rect": [
-     -285.74,
-     -285.44,
-     285.14,
-     285.44
-    ],
-    "mid": "66e0dd85e23acc399b97c2bf8e547edf"
-   },
-   "scene": "030386ec195c72518e17bc0eee0f27ad",
-   "geom": "b62ce3cd4287b53e9512f35caede5c84",
-   "hm": "8228c9acb9d1b5d376747bfea7c2805b",
-   "flora": null,
-   "gameplay": "53a96a3b770b02d9ccbc483151598589",
-   "inst": "2d1d7ca104b421ca30d65cf051aeb85e",
-   "packs": [
-    "3f34c6c4e1cc35a7374c6dcbe572e4f3",
-    "4ae4e132b4b9a0ba92cf8d9e7f6c144c"
-   ],
-   "bytes": 12143830,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "26_holmeisk_hk": {
-   "fp": "764c1ccc8407d034d673d223aae5d89e",
-   "pic": "1fab770d6c1b3c4041630745fd1c7d8b",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     120.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "2437d899d79bb1766682af248c3d62a9",
-    "small": "0f9756e728bd4c0b60a5f4067a1db1fc",
-    "rect": [
-     -269.8,
-     -269.9,
-     270.2,
-     270.1
-    ],
-    "mid": "8285f0ca74edc77884aa9b353365c930"
-   },
-   "scene": "3f58c36a0211572662e78a6d671674d1",
-   "geom": "e1c16ecd6e0606b190778bbb36da3409",
-   "hm": "7453273fd8f81a1c28b6bbfed8e8ed72",
-   "flora": null,
-   "gameplay": "eea722bdde585c88efb8e297ca883d04",
-   "inst": "a5f64acf0c2a39618e82191483ca17d7",
-   "packs": [
-    "7983c15309afb86af9050c76f1f535fa",
-    "a1b98c91566cd36f55d07c73795c04dd"
-   ],
-   "bytes": 11032793,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "28_rock_rc": {
-   "fp": "0d82d48fdd941a85736780d2c7742a18",
-   "pic": "ecae6ddda7ca81de6ab7d0923c0beaca",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     80.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "311da511b0ac233fc3289905415bbce6",
-    "small": "814ef5c6524c8ba9647ed0dc201826ab",
-    "rect": [
-     -287.84,
-     -287.74,
-     288.34,
-     288.44
-    ],
-    "mid": "952fe775d97e7e8a9ec3aa647e0e9ef3"
-   },
-   "scene": "421b041557e3612967a608ac36621a18",
-   "geom": "e5f2d9628e65f719782a4e3d9b841ce4",
-   "hm": "850423e8c20a58ed5eb5b69b2a53673d",
-   "flora": null,
-   "gameplay": "d11eb196cc5ca8e66fd146fbaeef2de5",
-   "inst": "d222c2228cb0b35fba03f0ba74955955",
-   "packs": [
-    "2d05f07c45c7b5c8eb8cb3135f2dbd8e",
-    "9f0c861c401f66df71e4a80434a905d6"
-   ],
-   "bytes": 12564645,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "29_skit_sk": {
-   "fp": "7e464e294f061b08cbefeed9105c084e",
-   "pic": "aa3fd6887759433306a617dd06dd4bd4",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "d1206b5f35d612d7ce927403aadd442a",
-    "small": "283399ebeec158e634d8ac68646bc043",
-    "rect": [
-     -286.01,
-     -281.76,
-     278.61,
-     282.86
-    ],
-    "mid": "624fa0f82652f85f63e298399a38e6bf"
-   },
-   "scene": "7335c1fea44583abf805987f98cb17c9",
-   "geom": "4bf2568651210f42452ba71484cc13ec",
-   "hm": "66e780c4e9e09b746c4bf84f29a2a47c",
-   "flora": null,
-   "gameplay": "c4ac59f62b1d8cc280e87f5f4014ea8e",
-   "inst": "1c0d1869c775a1cb7e1e06a0cecbbe44",
-   "packs": [
-    "1a96e96d035fa717bd767e71605913a5",
-    "eef937999de390d3a3de54e3514eadff"
-   ],
-   "bytes": 14180281,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "30_grossberg_sh": {
-   "fp": "303b9172f88203ec9cb26474c886c0d2",
-   "pic": "9ec057d40c34b2eb2cc58eb48157e471",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     150.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "c5a32a46129525126fc613943dba5ee4",
-    "small": "c2a628feaab3dbc761832cb9dad4eb79",
-    "rect": [
-     -270.29,
-     -273.69,
-     280.29,
-     276.89
-    ],
-    "mid": "4ce02cfb024369bb416607a9b88579c6"
-   },
-   "scene": "31768b43bd3fa2b30ccdaf80369f36a1",
-   "geom": "fdf5781ba31044dc1a2bded77dd97d28",
-   "hm": "cb7a453763c1f4e5fa9e888110c17d3d",
-   "flora": null,
-   "gameplay": "8bf51b3188e8d8d6eec1366c5ef87d46",
-   "inst": "e6c3bdc6b3cdf2cb7011fc36dcbef140",
-   "packs": [
-    "318e13d40d4d21315791d1b0cc261edb",
-    "c01d6bab62c6af608822d5886a67a554"
-   ],
-   "bytes": 12033124,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 256,
-    "light": 1024,
-    "land": 1024,
-    "tile": 512,
-    "env": 128,
-    "other": 256
-   }
-  },
-  "31_lumber_lm": {
-   "fp": "80d904511f3f9fc1438f7061788b4854",
-   "pic": "40355e027d6362fcc17f0c1509b71ab9",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     180.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "583b47a9359d84edf31ff371af92757f",
-    "small": "1e5acf8bdaa556e087683752e51fb208",
-    "rect": [
-     -273.67,
-     -273.77,
-     273.57,
-     273.47
-    ],
-    "mid": "6ad23b7ddd888d011fe77e13fe09cf80"
-   },
-   "scene": "f768781e7b13e96d37b2b853b761e16e",
-   "geom": "0db3d0ebd97af61626c40fe1f934f866",
-   "hm": "4afe77b2cfff0c5545f2fb7dbce23a14",
-   "flora": "f1e92303a36aac90cb33c4eb2ce1000b",
-   "gameplay": "4b2588afab3365dada78af49fdcc8037",
-   "inst": "8d2b072d4889533df8f202f433e605aa",
-   "packs": [
-    "648d7eb44290206a5f08166400763ea4",
-    "b384036447c40d688c1008d325c3308e"
-   ],
-   "bytes": 14642251,
-   "caps": {
-    "color": 256,
-    "normal": 0,
-    "data": 128,
-    "light": 512,
-    "land": 1024,
-    "tile": 512,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "32_faust_fa_night": {
-   "fp": "f7dd1c19d271870483578a11b0a82143",
-   "pic": "40d670e11d78e6ba6f000a8712102c37",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "5780b0b59cac1ac92770f10e8923f27f",
-    "small": "171a4ddced395dc79c9df89c6364f4f5",
-    "rect": [
-     -269.65,
-     -269.05,
-     269.05,
-     269.65
-    ],
-    "mid": "2613a58fee0076cabfc97d900598a802"
-   },
-   "scene": "c3859958768308c0c1c5d622b56eea1c",
-   "geom": "eb5e58d268a778ed99ba96aa29b67ecf",
-   "hm": "10c573e4321063aa925d5eee40a9e761",
-   "flora": null,
-   "gameplay": "20a165b6b1a52bcdf20c7a62a06e1d2f",
-   "inst": "912962b5f6c987ffd14dda49917ac8fb",
-   "packs": [
-    "06bf46577bf4f37456ccff8517ac2ba0",
-    "b3b886fc746866b9a868af8e37a77fda"
-   ],
-   "bytes": 12602593,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "33_neptune_nt": {
-   "fp": "aeb2345932ae2b16039319f59f2866e5",
-   "pic": "45a56b5269ea7532ac342025a1b908d5",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     70.0
-    ],
-    "size": 2048,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "133db848e291925ef4ed0e64b903a9d5",
-    "small": "769d4d481fef5c524cb098e243d2e473",
-    "rect": [
-     -319.84,
-     -307.69,
-     296.84,
-     308.99
-    ],
-    "mid": "d3990812663e24a8e1757e1ca0a6cc83"
-   },
-   "scene": "a4aa2aa8d83a46db50d72c3a5b36de25",
-   "geom": "5358caaa31b176fb414f1fda63139e85",
-   "hm": "bbc000149adb484f9f0307351aa1a58c",
-   "flora": "17c3b0a0689f6f74b44122ab43bb78d7",
-   "gameplay": "6a40f4051de1851d04c0214b0b123d70",
-   "inst": "9e48e9bd5ef3dde885d0c5f77444e4a0",
-   "packs": [
-    "5fdbab75a7a581571f6d72f0aeed7975"
-   ],
-   "bytes": 14632506,
-   "caps": {
-    "color": 256,
-    "normal": 0,
-    "data": 0,
-    "light": 128,
-    "land": 1024,
-    "tile": 128,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "34_forgecity_fc": {
-   "fp": "fb3823f1d93e0d619dba8380201dfe8d",
-   "pic": "080c5b92b40a67875941dad2fa2717f0",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "a12edf085871ac8e58392c9f7acee94f",
-    "small": "87f700f2b66bd0bbe3c84c59c995bcd7",
-    "rect": [
-     -257.26,
-     -268.86,
-     289.66,
-     278.06
-    ],
-    "mid": "f16c72d901d6957217826049d449ff12"
-   },
-   "scene": "138ae668a088dd994f30b7f466ca2e12",
-   "geom": "772b27fb9ddf40cb95bc72c3c4adf31e",
-   "hm": "349b15b1e241447910c5f56ef6264552",
-   "flora": null,
-   "gameplay": "f5b3057b49067014c73bde53c32f4ad8",
-   "inst": "638c7f5603e33f1dc278c18910597bd5",
-   "packs": [
-    "9850282a1705632e25e4a80de2301966",
-    "cd3d6abeaa94e52240709e695a58138b"
-   ],
-   "bytes": 15076618,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 256,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "35_rift_rt": {
-   "fp": "63b48046dd8a26691b410f378c031893",
-   "pic": "c150588bcde5080769fb710a8d76f2b4",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "ca6ffe19c3060838abea743c2d806c10",
-    "small": "8f4ef7bce0af50092b6e5629b0b42c5a",
-    "rect": [
-     -281.68,
-     -283.78,
-     287.58,
-     285.48
-    ],
-    "mid": "251c12d1abbef8209af651a536537a5e"
-   },
-   "scene": "41db97ddb78190c855b4b142f52959ca",
-   "geom": "c3fbd2f84c5933a90dc3767d069db1d0",
-   "hm": "cacc1da51299ceb565e4bb14a730114b",
-   "flora": null,
-   "gameplay": "93b1c34b5f34af7a43ef394e3fe44b56",
-   "inst": "2ee385e8e7d0472e9faec4e5a02f89b5",
-   "packs": [
-    "27e80f4091f8b65280a943c5adb48293",
-    "f9530e07416b1ae215c8453b8f46598a"
-   ],
-   "bytes": 14623852,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "40_moon_mn": {
-   "fp": "a7f66c7045a24f39da8a3989f1e442fe",
-   "pic": "2ce8b08047756d4469a4fdccd5423d0c",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     70.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "c221199fd683af68bc1b10882141f1af",
-    "small": "b266f6f97c8460ced43fd3658bc59d07",
-    "rect": [
-     -268.92,
-     -270.87,
-     269.02,
-     267.07
-    ],
-    "mid": "25bc4ef11f5038e193dfee1be2256555"
-   },
-   "scene": "60ded39892594e3ce361650be1067841",
-   "geom": "d5fecf190f3e8ff8fc763a85264d8bf3",
-   "hm": "6cc0081ec9dfeb6d0bb714b37481a9b6",
-   "flora": null,
-   "gameplay": "54d935590e4b2b1d9b4028422c0b877e",
-   "inst": "3c4213b0f218b8556c138de3b98e3d27",
-   "packs": [
-    "3013623c332109f116c8d340823997dc",
-    "dc920cbd319c04eb0a5d69d4b2b155f5"
-   ],
-   "bytes": 9814014,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "41_iceworld_ic": {
-   "fp": "1053d224d4863178cd06baadc5af7028",
-   "pic": "8928720eedeb58864732f08d5b998302",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     80.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "e4a0476615f94f767f01d09d388b6420",
-    "small": "d36a46f7c00fa002fa84a25f1d9e33b0",
-    "rect": [
-     -267.68,
-     -264.68,
-     263.68,
-     266.68
-    ],
-    "mid": "a082c10e6fb4f3ec08caad492b62b91b"
-   },
-   "scene": "0c829b9550bedc4ff77f851cd4d44f1d",
-   "geom": "d77fee1ab25f44b81406236cfe36ce0a",
-   "hm": "9d41bf0adc58f5c0d46dcf1b53631553",
-   "flora": null,
-   "gameplay": "51a72b7ee088540208eb1656133b794f",
-   "inst": "f2ec148ee5993890588a11e819d86fbb",
-   "packs": [
-    "ac5f231b03dd7fe239fd32b0f191d0a0",
-    "cbdb4a3074e3fbc36f20e01ec38b4265"
-   ],
-   "bytes": 10172608,
-   "caps": {
-    "color": 1024,
-    "normal": 0,
-    "data": 512,
-    "light": 1024,
-    "land": 1024,
-    "tile": 1024,
-    "env": 128,
-    "other": 1024
-   }
-  },
-  "42_glacier_gl": {
-   "fp": "9227d5cd7d527cd6882b41fc1647ac18",
-   "pic": "bdb35ea782e78f43dfce542f45733820",
-   "land": {
-    "bbox": [
-     -300.0,
-     -300.0,
-     0.0,
-     300.0,
-     300.0,
-     100.0
-    ],
-    "size": 512,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "5e04379dc863d92cd802591867c70e18",
-    "small": "43b2495972c05208c2c84294a421700e",
-    "rect": [
-     -270,
-     -270,
-     270,
-     270
-    ],
-    "mid": "fc93eaadbac39733822a4be510760b14"
-   },
-   "scene": "b8c35017c7cfe8b7400625eb22c4b4fb",
-   "geom": "8eb9d9405175a0a79ca56e60f446f720",
-   "hm": "941cfadaa892c74827328743468c7b98",
-   "flora": null,
-   "gameplay": "af1fa237e6b4186d6390f00253a8ab1c",
-   "inst": "73ac3596429a728da35d1cd320586398",
-   "packs": [
-    "4f57610961e14fc75b46c0887b429fc4",
-    "fe0c0b27bbc526ec06478e3d87d03872"
-   ],
-   "bytes": 15455860,
-   "caps": {
-    "color": 512,
-    "normal": 0,
-    "data": 128,
-    "light": 512,
-    "land": 1024,
-    "tile": 512,
-    "env": 128,
-    "other": 512
-   }
-  },
-  "42_glacier_br": {
-   "fp": "0c2feb2eaa156b1a8ef929ea612158e1",
-   "pic": "5c955ded68ad33595cd5a8e3f4a89831",
-   "land": {
-    "bbox": [
-     -600.0,
-     -600.0,
-     0.0,
-     600.0,
-     600.0,
-     100.0
-    ],
-    "size": 1024,
-    "m": [
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0,
-     1.0,
-     0.0,
-     0.0,
-     0.0
-    ]
-   },
-   "top": {
-    "full": "38b889312473bb85f905f2c7ebd2b8de",
-    "mid": "b474165030193b93324d6044e9811abf",
-    "small": "8afc038b0c41bb826f59bbff676f407b",
-    "rect": [
-     -540,
-     -540,
-     540,
-     540
-    ]
-   },
-   "scene": "577220691cb81c57efe05fd431ac16ad",
-   "geom": "457c16e42fcc064193c53d72209d3af3",
-   "hm": "15c106c07e7ec36d591470b076135972",
-   "flora": null,
-   "gameplay": "f56df0b7652c22377ce28d4d4029863e",
-   "inst": "09e1b03cc717f892a267ce380f98f279",
-   "packs": [
-    "756f63b8ba29a21a7fff491981dc0567",
-    "eb65f8ef90e0d37004a2e9a311e04096"
-   ],
-   "bytes": 15605668,
-   "caps": {
-    "color": 256,
-    "normal": 0,
-    "data": 128,
-    "light": 512,
-    "land": 1024,
-    "tile": 256,
-    "env": 128,
-    "other": 1024
-   }
-  },
   "01_mars_br": {
-   "fp": "af871e42582c5b1f555dbcca6e74a04d",
+   "fp": "a4d423ff29089552af214014a5eab853",
    "pic": "b8e9fae0c8e6e0250b14d87c1342b20e",
    "land": {
     "bbox": [
@@ -20724,16 +18470,16 @@
      540
     ]
    },
-   "scene": "64afbb08d1c97c9ab881a9df7e8c90c8",
-   "geom": "b7ebe0f7d4388fd9ee4df8d0c8ac0cd3",
+   "scene": "3eabfe119710b3321c59ee04d39cf4c3",
+   "geom": "00b7d8cfb94051a589ac5b1b257b707b",
    "hm": "64e6dd98c846e35a273824a0bc0c8aab",
    "flora": null,
    "gameplay": "95a4072b1020ff39fea4025f355a39d3",
    "inst": "59ec83a82f305e742f9fca880f2165c1",
    "packs": [
-    "653a8e6a39a998ccca9f5f1fa2e80e97"
+    "b2d4e6f419dea4e25eff9c5939664895"
    ],
-   "bytes": 15309493,
+   "bytes": 16345933,
    "caps": {
     "color": 256,
     "normal": 0,
@@ -20742,6 +18488,2260 @@
     "land": 1024,
     "tile": 128,
     "env": 64,
+    "other": 256
+   }
+  },
+  "01_mars_mr": {
+   "fp": "f4a3a14c7a9ea203508029db085802d3",
+   "pic": "397dd1196cf81586c7cf9f015cd73fb1",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "6bb00bb953d6b0e333837eb15665c236",
+    "small": "2c6b6984aa2bf7b053e20673348a8707",
+    "rect": [
+     -287.04,
+     -284.04,
+     281.04,
+     284.04
+    ],
+    "mid": "94304baced04c6dcb84ef56a2088d477"
+   },
+   "scene": "ff2e57c13167f655d4f698a079196c75",
+   "geom": "618899b6f1b6369f0f45b173d8a7d230",
+   "hm": "c73ee3f767b82403d04c7dd139097e0d",
+   "flora": null,
+   "gameplay": "77375df02ad4f618e02c9bb78f282edc",
+   "inst": "345e04a4ad5acdee6ef2f8688fa970e7",
+   "packs": [
+    "2860d483fcd519d3b9f92ec0fffb68a5",
+    "71a6c28716e45e45103bbc6d0b4d1af0"
+   ],
+   "bytes": 17489287,
+   "caps": {
+    "color": 256,
+    "normal": 0,
+    "data": 256,
+    "light": 512,
+    "land": 1024,
+    "tile": 512,
+    "env": 128,
+    "other": 512
+   }
+  },
+  "02_desert_train_dt": {
+   "fp": "21f3b29252e4f884d91471eaf64a6d62",
+   "pic": "dbbe5a3baac652ad2eddb8bacb767a45",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "c367d588fe54da4d05f8d7472bd278ed",
+    "small": "db1f51e4bf9d6b8e59a7865b44e6eda0",
+    "rect": [
+     -276.64,
+     -276.99,
+     280.64,
+     280.29
+    ],
+    "mid": "a87c4b8de206fca6cdec0c2cd53338ee"
+   },
+   "scene": "e5ad76361e72c24b78a2f8b3d7b1332f",
+   "geom": "d263909f5dc14e792373b085dca8f5eb",
+   "hm": "308abb064708d3748dd4f28318f791a9",
+   "flora": "8978ee525705bb20b862d50b6600a282",
+   "gameplay": "0de02360c9ce2e161d272885ec5cbb37",
+   "inst": "3709fab85643b2522895436020d01f71",
+   "packs": [
+    "0792496acf3f46483409454c252b201f",
+    "30090fb285b71f81da1e3fbb691827b8"
+   ],
+   "bytes": 15356389,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 128,
+    "light": 1024,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 256
+   }
+  },
+  "03_erlenberg_er": {
+   "fp": "02615729247b50b2ff87266845a5ffca",
+   "pic": "90e2dc64105bc97c501a3cd4ee44b056",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     150.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "51e439bc846a894286169d656978493a",
+    "small": "c1a23cd719cc4818209c367845e9feb0",
+    "rect": [
+     -262.44,
+     -256.49,
+     263.84,
+     269.79
+    ],
+    "mid": "92d67379bf7161b9b15f44d1b0938f74"
+   },
+   "scene": "3ce89e4d71150d172cd90e8aab7bbab5",
+   "geom": "c843693b88c15ea1eb2143cb3d23f246",
+   "hm": "2aa0b11616c9e190110326a1d555d4bc",
+   "flora": "7bb5c4f6be775aec45c6f529ccbcdb63",
+   "gameplay": "0051fc72d94d5488d2f945a6d59fd1ac",
+   "inst": "9b34b10de0afb46b05a12dc6e7dd483b",
+   "packs": [
+    "15fc34bbe7dbb9c8e98140d8a4f05606",
+    "984b7cc23846704fb948e2bdd76ac5ec"
+   ],
+   "bytes": 16580305,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 128,
+    "light": 512,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "04_medvedkovo_md": {
+   "fp": "aff5a58016ddb81dcb75009d9e40113c",
+   "pic": "e33a384ee03ce7c91f579d202fd06880",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     70.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "595aca274889ed525f095e17c3cf5e18",
+    "small": "d96b631ac1f7a564b15d6cc4ef3a4aa6",
+    "rect": [
+     -284.66,
+     -284.71,
+     285.36,
+     285.31
+    ],
+    "mid": "06cf0acc0ccc402c321ba4779b591c44"
+   },
+   "scene": "b234faadf8d138efafa4e8f448128aed",
+   "geom": "e40f28072f1a6e708fb556a233c48e42",
+   "hm": "f39c22756603e393cb3cbb3573a286d1",
+   "flora": null,
+   "gameplay": "99d4249c840143ff1862783bae6d8f36",
+   "inst": "bad2b925a2f0e6d16a5dd0c63c8bf668",
+   "packs": [
+    "23668020cf661d38fd7d2bf4b2634af2",
+    "dda77bbc0fda51ae686303b5af08074b"
+   ],
+   "bytes": 15459228,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 256,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "05_amigosville_am": {
+   "fp": "5095c61db7d5e5a1e45240b4038143e3",
+   "pic": "6bfaaad1383e091457c6fdf03dc97bb4",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     50.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "051ce4eb72780aefdecba49022d88f22",
+    "small": "21179abfe851b1350f4de588be98b5d5",
+    "rect": [
+     -276.86,
+     -277.26,
+     275.46,
+     275.06
+    ],
+    "mid": "b3440a69858a9f356096cb622a7492fe"
+   },
+   "scene": "0808e9c0ee5464821790040239294ffe",
+   "geom": "aa44e1b2e38264fbb1937441bb6e88d6",
+   "hm": "53c5fb7faf40d19f2977647cf33f87a6",
+   "flora": null,
+   "gameplay": "88eb6283c7398e90874f58819b48dfe5",
+   "inst": "147e9405bb82c2ef13e752ff17bf6413",
+   "packs": [
+    "38169fa81875598452cd2923546f0c9b",
+    "6925fe4fbe90d1e60f156eebc3b5444d"
+   ],
+   "bytes": 15179191,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "06_rudniki_rd": {
+   "fp": "047749121b5b6f399ce3765ccf843d15",
+   "pic": "d4c6abef479473235f7cba8554b1f080",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     135.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "3459e94b698f4de6257ff20792f5d03a",
+    "small": "2f030bcc53e07a21813109126095d1ff",
+    "rect": [
+     -266,
+     -259.3,
+     260.6,
+     267.3
+    ],
+    "mid": "6448fe60b7bb89f686884e5e0e2bdbc9"
+   },
+   "scene": "13d0aedefd3e5c1f501c8e32924598a5",
+   "geom": "94d0618340b9fb7bbe5cccbf504842af",
+   "hm": "70e826b903d9de77ecd43c56fdb46d03",
+   "flora": null,
+   "gameplay": "3c9dbfac5ec06938545842cc10b6d1af",
+   "inst": "1c1d623a96d160f3d128ec7c195319b9",
+   "packs": [
+    "2e9e82eca1e861304712499a82f348c8",
+    "a6d824f4147550da10d64af38e1e648b"
+   ],
+   "bytes": 15585614,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "07_fort_ft": {
+   "fp": "90d142172b130a4d786250f1ff57939d",
+   "pic": "456cfe16229ee37d73d726210fc149a1",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     70.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "234d98f946695a8ae733e781c6e13125",
+    "small": "6881b6cf3da4a0f672b62200b69f5fa3",
+    "rect": [
+     -253.9,
+     -253.7,
+     253.8,
+     254
+    ],
+    "mid": "cf2210b625e0bf3f5e797dcbe97a8711"
+   },
+   "scene": "c1d6e80df160fcc4eb9b09ba292f9958",
+   "geom": "c657987e227f32dfbd1264c275701e86",
+   "hm": "65fe4e2eb283c6df1ec95f4a1f7341f2",
+   "flora": null,
+   "gameplay": "35bdddc9e12432477d59c79d5f14c100",
+   "inst": "5e66ae2404185e3a40158f36c58a9de2",
+   "packs": [
+    "1ba411102a398c3c617d59704f31009a",
+    "62af56ad4c34c57ef202b2c8a4978fce"
+   ],
+   "bytes": 15688247,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "08_idle_id": {
+   "fp": "a7ded75186d5cf0bbc2abd36ed32a37a",
+   "pic": "ab66f09ad8faa65d922a5a7c6c2652b3",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     150.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "359388fb21f50b1d3e0a9ccea75598a4",
+    "small": "9e68a6e43359bfd2753853fb90c8bd3f",
+    "rect": [
+     -291.27,
+     -292.17,
+     283.07,
+     282.17
+    ],
+    "mid": "a0a09621362b1bd5e0a3f491abaa6ad2"
+   },
+   "scene": "54efc9312baa0f28eebcd9e665ba4f94",
+   "geom": "cc6d1bfe59471e8687ba1cd2a55722e2",
+   "hm": "8eb2df1e7a125638ed98e510958394b9",
+   "flora": null,
+   "gameplay": "99b1586d257aaf84502227474f06eb77",
+   "inst": "cd846abf7fc92a322948b54b371d9851",
+   "packs": [
+    "15c2118783750b6f51c93ad4fc1d0291",
+    "9c7c157059e6e8e2295ca6add4891950"
+   ],
+   "bytes": 16469312,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "09_savanna_sv": {
+   "fp": "7e9da3f2f3aed814793a317e94a11866",
+   "pic": "ea48e5d5745a318b8d173757ad82f448",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     80.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "fa93f64fe805afc919ee8a3c98b8beee",
+    "small": "f39b26c28e4115794ae128f7c3dba34e",
+    "rect": [
+     -287.57,
+     -287.92,
+     288.07,
+     287.72
+    ],
+    "mid": "436937e75cb62f9fbaab8b48e2e0e587"
+   },
+   "scene": "ee95ad962d9c334311bfe03c1927a0ec",
+   "geom": "e0de6520d2adc1c4deba40227043f72e",
+   "hm": "d33d047b1603272ecb5e35160eb8c21a",
+   "flora": null,
+   "gameplay": "dd2346ae0f2052be7e6930a5d76ef8e2",
+   "inst": "3236582ef43e756851bdd8a3c5e7c368",
+   "packs": [
+    "19eea9ec28c640ec81d22f60c1dceca9",
+    "39117fbbfa50e01c05646afaea781df8"
+   ],
+   "bytes": 10202798,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "11_plant_pn": {
+   "fp": "1c89cb8841a92aa2a8cfdbf119d5dc41",
+   "pic": "29135f9f71ad5349c9935fc3a37cf361",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     80.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "c2181b8b0d50e65a46cde4d2666d8af8",
+    "small": "72c013d77071a302d440ceceef98b8a9",
+    "rect": [
+     -281.11,
+     -284.21,
+     288.81,
+     285.71
+    ],
+    "mid": "d6d903fc14416167857a18f9f2756960"
+   },
+   "scene": "c2329887ca72d116c5ecaf3ef710ea70",
+   "geom": "c51ea94d60c1f2a830ce1ee198295474",
+   "hm": "d5305832bd239b1679e74656d754a3d5",
+   "flora": null,
+   "gameplay": "8bcf9de7402f76d2a71e7462066b7994",
+   "inst": "49c686568b1ba7e4e300f3de8e8957ef",
+   "packs": [
+    "525e43de61fc664113e5e3daf715aed6",
+    "d285c760b32ec80eb336726f90a62da1"
+   ],
+   "bytes": 14970851,
+   "caps": {
+    "color": 256,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "12_malinovka_ma": {
+   "fp": "b3277781e8c3e4f25fff218f96d7e54a",
+   "pic": "a6632dff348e8388c703df54384f109b",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     60.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "4e7852033990ab0a2a4d042e5a6d004f",
+    "small": "7dbeeac319515ec3bbe2b19e9ec2dba8",
+    "rect": [
+     -291.53,
+     -291.08,
+     291.23,
+     291.68
+    ],
+    "mid": "105fd525a5e64f11f66ac5e29f8ff34b"
+   },
+   "scene": "31ccfd07032d4cc5686f9ec46c360b1a",
+   "geom": "ba1faebc80ff559804b489bb9134b51d",
+   "hm": "095bc4327fbf5e16883603c847cafc08",
+   "flora": null,
+   "gameplay": "9c44ea0b1631d76fdb734f039d346385",
+   "inst": "cc166fcff1fb2c8f66287570ace9821d",
+   "packs": [
+    "20fa6051fe2042111db6a9f98a074ebd",
+    "c73dc5483c3e95dbf4b16f3277b07cf5"
+   ],
+   "bytes": 15711927,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "13_pliego_pl": {
+   "fp": "151cea4c2d16bcf452b19648777f9d60",
+   "pic": "3dc720d08c996d50dbe66976f24871e0",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     50.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "e22fb35993f5db9513d810ca5ee3a7cd",
+    "small": "deb2271a8d8cc400c65724963d7f546d",
+    "rect": [
+     -280.77,
+     -284.17,
+     277.27,
+     273.87
+    ],
+    "mid": "1252f9c4616852b44b573863d4e7c80c"
+   },
+   "scene": "d000aac8bcc60712a83c06d6637a1981",
+   "geom": "5e03a7e1e5a91f32f24e5066a843904e",
+   "hm": "d13d568f6a1458b5ee3eaff6a5d09676",
+   "flora": "2b0db78f2232221baa6fcdc39d3a96c3",
+   "gameplay": "5e55be000e2a4b71e2ea4a8c142fa9e5",
+   "inst": "5e937a335eecb0464f7d7d7c86a29d75",
+   "packs": [
+    "35253087175333cbe6c7d733faf562f3",
+    "9b1d850687bc4c7ea3f80010796f3308"
+   ],
+   "bytes": 14506386,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 128,
+    "light": 1024,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "14_port_pt": {
+   "fp": "2b9c60ea3d42f2ab1b758f73bfb72ac6",
+   "pic": "0199b28c618e95f0c5413be4d5b28419",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     70.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "c6a8ce554c3a7e81f8326c9f7fe63839",
+    "small": "37cc6d1b37ff731be276896939500a9e",
+    "rect": [
+     -292.32,
+     -291.72,
+     291.42,
+     292.02
+    ],
+    "mid": "126d82b2a520eb164c00ce41103b89d5"
+   },
+   "scene": "aa740790b0561cc1583b9a7742155060",
+   "geom": "68e4522ac48af2ea82165893f86061fb",
+   "hm": "4efc2e2f8a89fa92e26e3459e8bac6be",
+   "flora": null,
+   "gameplay": "f1a30e222359b53e99e9878bc4a92813",
+   "inst": "f0afa5f7a4539fc742f008e2f7b8f415",
+   "packs": [
+    "80bc3aee9864a8a0d0fb16726f9bfc72",
+    "e26cf5906cf39da7524a83a5fe343aea"
+   ],
+   "bytes": 10464544,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 256,
+    "light": 1024,
+    "land": 1024,
+    "tile": 512,
+    "env": 128,
+    "other": 256
+   }
+  },
+  "15_lagoon_ln": {
+   "fp": "a7da1f0d7cb3366e445a21d1ab4b4b48",
+   "pic": "dc449763bb53ef37f4bf42d6d62b298d",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "77af9b7c036db4347ee91d684270108d",
+    "small": "bb41d618814b4cbc340661080572015b",
+    "rect": [
+     -291.2,
+     -281.2,
+     281.2,
+     291.2
+    ],
+    "mid": "6ffa83ca41f1115a479966c95c19f170"
+   },
+   "scene": "154c40e6792d4a71d78601856643d85d",
+   "geom": "65b61f522546e76f7f1a5ba33a26ae52",
+   "hm": "a09b247ddb337c605894ca8e86aaf779",
+   "flora": "8d0952c6f7b2a64b07d3820ce5bb3f1e",
+   "gameplay": "10bce30f607127fdaff41f49c71232e9",
+   "inst": "7d2f0fe7a5e72e3e448b3d6f75fa3451",
+   "packs": [
+    "c8d004b46a9c8c228bd7b8658ab51ec0",
+    "cc7cb2734fca3728f90fa53610cfdabf"
+   ],
+   "bytes": 15568708,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 128,
+    "light": 1024,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 256
+   }
+  },
+  "16_holland_hl": {
+   "fp": "187c25b6af88f3e365f2601776ff9885",
+   "pic": "7c7f71c4fb9396f8d8028ca50d66127f",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     80.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "69732deb4a7785cb8acf42bf8ff146c6",
+    "small": "0541cff2bc3e523eeca4ff2589725c6f",
+    "rect": [
+     -280.73,
+     -281.08,
+     288.33,
+     287.98
+    ],
+    "mid": "444bb2cbb2d7a02e40ee052a95c98e69"
+   },
+   "scene": "0435402b4505ed103570ed7b60ef475e",
+   "geom": "081ef5ab0d47f5fc382e523729a094d3",
+   "hm": "9360e45f50ab1a5537382b5a0c1bd59a",
+   "flora": null,
+   "gameplay": "3ea0767502308e991c79008734f72897",
+   "inst": "3c78bfe6c71c70c5e0dfa7bb18d2bf15",
+   "packs": [
+    "2413552bfd623d7180aad10e3143d60d",
+    "3f4a6a93419355d306721dd5c201b655"
+   ],
+   "bytes": 15928889,
+   "caps": {
+    "color": 256,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "17_karelia_ka": {
+   "fp": "ecbb97caac5bf700b5a2d1f182cd0f50",
+   "pic": "9df08a0621fbb3839db96bf4df349609",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "f677569c28c1805bd5c986f22f52771c",
+    "small": "fa73210ce8028d07ef16b958a780939c",
+    "rect": [
+     -282.31,
+     -284.36,
+     287.71,
+     285.66
+    ],
+    "mid": "4a3d925fc4dd83318a7efda7cee8c722"
+   },
+   "scene": "81ac0bd7359158f1cddfc3bce560f3cd",
+   "geom": "1458f9382e6ec958f0397a0588dbcfe5",
+   "hm": "a226167b7ba916d2941549e990cad8f7",
+   "flora": null,
+   "gameplay": "efa14440164fe406e75eb6b8cc084557",
+   "inst": "0d66d19139767e22090e0ccadecc85cc",
+   "packs": [
+    "1596f6fe4320f8a790726f16eb37c7e9",
+    "c1c0a1b2036fea652d67e6dbb2d328e9"
+   ],
+   "bytes": 11934215,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "18_canal_cn": {
+   "fp": "62c85a7e3f8d25d2008fe85e496a61d3",
+   "pic": "3646be6f06a3817724d2af7dc9954c9c",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     140.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "ae91f8937ab34a7a0718c9453ee4a32b",
+    "small": "121d9998c19cdf26d25a6ad70f29ced1",
+    "rect": [
+     -285.85,
+     -283.75,
+     285.15,
+     287.25
+    ],
+    "mid": "7526cbb75958431fae894508ebe099b1"
+   },
+   "scene": "f33857a2096f8b383c9961aa3f2ffd9a",
+   "geom": "64bcceb7246d1cd41c116eb3712e5e51",
+   "hm": "680e9ca8ed2945d84c661ab3bdd8b821",
+   "flora": null,
+   "gameplay": "a4d01ec674c760df7d0d74128b802eb3",
+   "inst": "aae2f452db59b623b5a9554bc63240b8",
+   "packs": [
+    "9fae1087e936196b42b213c76d8a7aa9"
+   ],
+   "bytes": 9532782,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 256,
+    "light": 1024,
+    "land": 1024,
+    "tile": 512,
+    "env": 128,
+    "other": 256
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "fp": "4044ffc1513996f41e9de4df82124ad8",
+   "pic": "52d212c6f97772fcf881a682de5c5c38",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     70.0
+    ],
+    "size": 1024,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "d635dbd1bbfadfe3dd316beaca8aea46",
+    "small": "c2f7c85748cd7d59cf032541d31b933b",
+    "rect": [
+     -293.8,
+     -307.8,
+     321.8,
+     307.8
+    ],
+    "mid": "9b2274ec07b29834ec81984d8897242a"
+   },
+   "scene": "56493b97a43726360e72f677cd581357",
+   "geom": "1b3b456bec361f43c9eebec6aae9b9c0",
+   "hm": "410203a3c1c6d97c95ec7b3620a1c06b",
+   "flora": "0ad81fcd3c4a227752c8471d60779345",
+   "gameplay": "21ff2e6479d089ea25a82150b29da76b",
+   "inst": "a552ddd10f155449684f46d6390148b5",
+   "packs": [
+    "033a759b62dc4541f68e803f2bae54f4"
+   ],
+   "bytes": 15718798,
+   "caps": {
+    "color": 128,
+    "normal": 0,
+    "data": 128,
+    "light": 256,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 512
+   }
+  },
+  "20_cybermap_cb": {
+   "fp": "9aa3c84200faaf6afbd351e73a7ce734",
+   "pic": "4506d6a73245309710ea1c7f7534f5e4",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     50.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "18af3002ffc4ae0195d9fc68a84f2afe",
+    "small": "5ca56f30152a4b98b02026cf05853d62",
+    "rect": [
+     -324,
+     -324,
+     324,
+     324
+    ],
+    "mid": "370e5fb6340d31f1044d7adbef37a76d"
+   },
+   "scene": "33fb62febddf5fcfedd2568c6ae212f9",
+   "geom": "405b0157d6e499417e6f014d6de64479",
+   "hm": "294f5143bc9ad38add2a00efb9e3afe5",
+   "flora": "0a1499683359bf3bd0865d64acfe7a31",
+   "gameplay": "4d11c5dae1be2273d40c9bd3cd42d5d1",
+   "inst": "b89581207a59e91d0bf0f96e2bf08a74",
+   "packs": [
+    "95688f556ce0e92c83fcc163cab079f9",
+    "f3de31ac9fcce2b28cf3f21e3bb494b8"
+   ],
+   "bytes": 13916580,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 256,
+    "light": 1024,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "21_mountain_mnt": {
+   "fp": "bad12e8ba83db4915b75d0ca7feb5a35",
+   "pic": "fcada2e39dd89eaa5664ca1ba1ca773d",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     120.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "d326c5bb566662aaba717de2ddc6b673",
+    "small": "83158b9637c2ce946cfb48ca0e61579e",
+    "rect": [
+     -279.39,
+     -299.09,
+     295.39,
+     275.69
+    ],
+    "mid": "a3c91437718b73fa52824d1e0c45159e"
+   },
+   "scene": "e3c1b75e5b3951fc115d8424d8237844",
+   "geom": "d41fe7051af89c1af52d4f0d761d0b76",
+   "hm": "04bbd6ede2504bde0bba3dad6b3b0944",
+   "flora": null,
+   "gameplay": "0e1400c0258afb6ff45e91aa11380efe",
+   "inst": "70fabb46785163e949de8745a85eedab",
+   "packs": [
+    "43e9fac425bba237b0b25fa1b88ef8af",
+    "f21729ecf8198de8c7ea7729bfa56faf"
+   ],
+   "bytes": 15221870,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "22_italy_it": {
+   "fp": "9d787264f3ecdd68f6102231577f7db1",
+   "pic": "fe01b3bdfc7a75282c14b4c6a90ee010",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     150.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "2c22e68f557821d3062f457ebdfc7f65",
+    "small": "e68adec359d82b730656882ecddf2e91",
+    "rect": [
+     -269.78,
+     -269.43,
+     269.58,
+     269.93
+    ],
+    "mid": "aed9b1fcec91e25fdf59ba68dc3a068e"
+   },
+   "scene": "8c6e616c826a5e665276f92a4fb33657",
+   "geom": "6241d3d85cd88160ac6afccea04942c6",
+   "hm": "6b98773f98bd2fd2be4e6e1f514f8d03",
+   "flora": null,
+   "gameplay": "f38f1a9eceb751178b065f7146851aaa",
+   "inst": "cd318e3c6a2cff5ceb711bc9622105ea",
+   "packs": [
+    "9951d18cf384834cf985f3f62d4989cd",
+    "b7dea00d41bd68364b469479f739d074"
+   ],
+   "bytes": 15292902,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "23_karieri_kr": {
+   "fp": "58710f4e6dcd077acc80555e05070f26",
+   "pic": "f7f7154e7016aab42fff2e6f915ef604",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     120.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "745996dd687220d2e60dee1bebdef149",
+    "small": "87d06b5ab2c851db0e57b6cdab7ce0fe",
+    "rect": [
+     -249.8,
+     -241,
+     268.7,
+     277.5
+    ],
+    "mid": "d0b62cf68215fd4aa756fcd0408b8b23"
+   },
+   "scene": "c29c8615f94aa6ce237e3ca7c82c9efe",
+   "geom": "4ff4fac08ba919bad67febf79c70df90",
+   "hm": "846a06ddb4352114600e6ebe424d53d7",
+   "flora": null,
+   "gameplay": "6565d593d057e99cc45e08988600f0be",
+   "inst": "19706b68036d393c0c4af1895cbd15f3",
+   "packs": [
+    "990fd82ff1722201c48e05f475bb4b69",
+    "e7dcbfa62df1e77e417b224dc0168606"
+   ],
+   "bytes": 12909311,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "24_milibase_mlb": {
+   "fp": "ac207f3a422d58dc803d8e36b1e1fcb6",
+   "pic": "3a23d9aa6438779274d12855bc40e1b4",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     80.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "5997671a0ba0e8b92d7afaca7785381b",
+    "small": "6fc33c33f54e0c82e22e4142385d706a",
+    "rect": [
+     -284.82,
+     -285.07,
+     285.32,
+     285.07
+    ],
+    "mid": "284c15181fb65f7d78996510ccee31a0"
+   },
+   "scene": "a806f3e33dff4fea97aa6e45229a15d6",
+   "geom": "350f4d3f686e87f281a2c16d8e040c04",
+   "hm": "8d17f76b41c527eb8e8cb1f97c772637",
+   "flora": null,
+   "gameplay": "316a9f49d7c026a5ae5af9897f235c04",
+   "inst": "397e135aafd01f212f57128f95068865",
+   "packs": [
+    "a9c5fac600d0f4d1468b58e5969628d9",
+    "dd5fdcbf1bfbf00617c6659f4deb2a58"
+   ],
+   "bytes": 12467180,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "25_canyon_ca": {
+   "fp": "aa82c15a77c0c7353960e94129e9448c",
+   "pic": "cbc874cf3e4687246b8bcb0579c1090f",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "021e90b73fb7b697bd957d77432e31f4",
+    "small": "d527153361201d91a7083be20de97c46",
+    "rect": [
+     -285.74,
+     -285.44,
+     285.14,
+     285.44
+    ],
+    "mid": "66e0dd85e23acc399b97c2bf8e547edf"
+   },
+   "scene": "bdb55cf55626194ff0e53d2baf84dc5e",
+   "geom": "14fa72898de1cd6fff3cd7668103eb3f",
+   "hm": "8228c9acb9d1b5d376747bfea7c2805b",
+   "flora": null,
+   "gameplay": "53a96a3b770b02d9ccbc483151598589",
+   "inst": "2d1d7ca104b421ca30d65cf051aeb85e",
+   "packs": [
+    "4653db18c62039502eae3474588f5f1b",
+    "a762055a04efd69cd47377f3081db8ce"
+   ],
+   "bytes": 12354392,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "26_holmeisk_hk": {
+   "fp": "820f033fa7bde9b3db6ce03b9701d6f2",
+   "pic": "1fab770d6c1b3c4041630745fd1c7d8b",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     120.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "2437d899d79bb1766682af248c3d62a9",
+    "small": "0f9756e728bd4c0b60a5f4067a1db1fc",
+    "rect": [
+     -269.8,
+     -269.9,
+     270.2,
+     270.1
+    ],
+    "mid": "8285f0ca74edc77884aa9b353365c930"
+   },
+   "scene": "e466d5ffaf98ad18c72a9ad1f03de779",
+   "geom": "39440d2e5bc98bc7c802636a12b5c62d",
+   "hm": "7453273fd8f81a1c28b6bbfed8e8ed72",
+   "flora": null,
+   "gameplay": "eea722bdde585c88efb8e297ca883d04",
+   "inst": "a5f64acf0c2a39618e82191483ca17d7",
+   "packs": [
+    "afee60ddf8674e65d46078089b0784a6",
+    "f5274ee8dbbb28e20060785bab768296"
+   ],
+   "bytes": 12015123,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "28_rock_rc": {
+   "fp": "91f1cc7c5406f069e048e4509d595ccf",
+   "pic": "ecae6ddda7ca81de6ab7d0923c0beaca",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     80.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "311da511b0ac233fc3289905415bbce6",
+    "small": "814ef5c6524c8ba9647ed0dc201826ab",
+    "rect": [
+     -287.84,
+     -287.74,
+     288.34,
+     288.44
+    ],
+    "mid": "952fe775d97e7e8a9ec3aa647e0e9ef3"
+   },
+   "scene": "e64fe3168a46323ed67ea4c0d8209ae5",
+   "geom": "92346584ea83918d9021b2113c801f5b",
+   "hm": "850423e8c20a58ed5eb5b69b2a53673d",
+   "flora": null,
+   "gameplay": "d11eb196cc5ca8e66fd146fbaeef2de5",
+   "inst": "d222c2228cb0b35fba03f0ba74955955",
+   "packs": [
+    "8fd63b6064e181804da4f493669add1f",
+    "b779080d3f6fc94fe9d5aef361188b1b"
+   ],
+   "bytes": 13199230,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "29_skit_sk": {
+   "fp": "8bf3a8b1342d37b367d640144af788b2",
+   "pic": "aa3fd6887759433306a617dd06dd4bd4",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "d1206b5f35d612d7ce927403aadd442a",
+    "small": "283399ebeec158e634d8ac68646bc043",
+    "rect": [
+     -286.01,
+     -281.76,
+     278.61,
+     282.86
+    ],
+    "mid": "624fa0f82652f85f63e298399a38e6bf"
+   },
+   "scene": "c50f2c23141c337831e6fe69f83f5f5e",
+   "geom": "3efae8213ee2a934e7d83cc5c3f1e62b",
+   "hm": "66e780c4e9e09b746c4bf84f29a2a47c",
+   "flora": null,
+   "gameplay": "c4ac59f62b1d8cc280e87f5f4014ea8e",
+   "inst": "1c0d1869c775a1cb7e1e06a0cecbbe44",
+   "packs": [
+    "442e22b25721d82d7d3c05d26ea22ed7",
+    "91907a70dfb4cdd4a260b534a18dbee1"
+   ],
+   "bytes": 15477346,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "30_grossberg_sh": {
+   "fp": "a67a47940fc5d030ff109fee017787bf",
+   "pic": "9ec057d40c34b2eb2cc58eb48157e471",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     150.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "c5a32a46129525126fc613943dba5ee4",
+    "small": "c2a628feaab3dbc761832cb9dad4eb79",
+    "rect": [
+     -270.29,
+     -273.69,
+     280.29,
+     276.89
+    ],
+    "mid": "4ce02cfb024369bb416607a9b88579c6"
+   },
+   "scene": "223c258095e42b0a6ba4b88509529dc6",
+   "geom": "f2d67376fd7ed7208b84776e98c110e1",
+   "hm": "cb7a453763c1f4e5fa9e888110c17d3d",
+   "flora": null,
+   "gameplay": "8bf51b3188e8d8d6eec1366c5ef87d46",
+   "inst": "e6c3bdc6b3cdf2cb7011fc36dcbef140",
+   "packs": [
+    "3cbf1e92164e5e4d8d63fcc2c6615230",
+    "e0974726c01f8d0b8331b7a61538ceca"
+   ],
+   "bytes": 12718556,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 256,
+    "light": 1024,
+    "land": 1024,
+    "tile": 512,
+    "env": 128,
+    "other": 256
+   }
+  },
+  "31_lumber_lm": {
+   "fp": "dcf525ddc28e0416e0f70d4e077b057c",
+   "pic": "40355e027d6362fcc17f0c1509b71ab9",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     180.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "583b47a9359d84edf31ff371af92757f",
+    "small": "1e5acf8bdaa556e087683752e51fb208",
+    "rect": [
+     -273.67,
+     -273.77,
+     273.57,
+     273.47
+    ],
+    "mid": "6ad23b7ddd888d011fe77e13fe09cf80"
+   },
+   "scene": "b8fb9f214825b4cbefc1c46c592ed2ae",
+   "geom": "47bd7ef6526bd2105ef0c90de2b38345",
+   "hm": "4afe77b2cfff0c5545f2fb7dbce23a14",
+   "flora": "f1e92303a36aac90cb33c4eb2ce1000b",
+   "gameplay": "4b2588afab3365dada78af49fdcc8037",
+   "inst": "8d2b072d4889533df8f202f433e605aa",
+   "packs": [
+    "545b72d9c492af149c604ca42004107e",
+    "90a82d33350a1166382ecbe8efafcfee"
+   ],
+   "bytes": 16151862,
+   "caps": {
+    "color": 256,
+    "normal": 0,
+    "data": 128,
+    "light": 512,
+    "land": 1024,
+    "tile": 512,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "32_faust_fa_night": {
+   "fp": "a6342caa8d384ddc76bde417090af28b",
+   "pic": "40d670e11d78e6ba6f000a8712102c37",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "5780b0b59cac1ac92770f10e8923f27f",
+    "small": "171a4ddced395dc79c9df89c6364f4f5",
+    "rect": [
+     -269.65,
+     -269.05,
+     269.05,
+     269.65
+    ],
+    "mid": "2613a58fee0076cabfc97d900598a802"
+   },
+   "scene": "1989e2e80a8d38598171d1144fbcb939",
+   "geom": "89b9fc0ecab22a9f8b3873ab1ece3a57",
+   "hm": "10c573e4321063aa925d5eee40a9e761",
+   "flora": null,
+   "gameplay": "20a165b6b1a52bcdf20c7a62a06e1d2f",
+   "inst": "912962b5f6c987ffd14dda49917ac8fb",
+   "packs": [
+    "1947f1d007e02d867d680bb1d5ece6ff",
+    "b3b886fc746866b9a868af8e37a77fda"
+   ],
+   "bytes": 12641294,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "33_neptune_nt": {
+   "fp": "7fc7deb57cfff0fe0a3060de2e5a6253",
+   "pic": "45a56b5269ea7532ac342025a1b908d5",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     70.0
+    ],
+    "size": 2048,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "133db848e291925ef4ed0e64b903a9d5",
+    "small": "769d4d481fef5c524cb098e243d2e473",
+    "rect": [
+     -319.84,
+     -307.69,
+     296.84,
+     308.99
+    ],
+    "mid": "d3990812663e24a8e1757e1ca0a6cc83"
+   },
+   "scene": "9410ef6d958b76846125cb91ef18f1e9",
+   "geom": "cdefc8caf56053ab65824d1198dc5ffc",
+   "hm": "bbc000149adb484f9f0307351aa1a58c",
+   "flora": "17c3b0a0689f6f74b44122ab43bb78d7",
+   "gameplay": "6a40f4051de1851d04c0214b0b123d70",
+   "inst": "9e48e9bd5ef3dde885d0c5f77444e4a0",
+   "packs": [
+    "fc1b5bb9ad1f4305b5c070f098a90359"
+   ],
+   "bytes": 15574928,
+   "caps": {
+    "color": 256,
+    "normal": 0,
+    "data": 0,
+    "light": 128,
+    "land": 1024,
+    "tile": 128,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "34_forgecity_fc": {
+   "fp": "30725afd4323e5f1beee00cfd56ae5b6",
+   "pic": "080c5b92b40a67875941dad2fa2717f0",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "a12edf085871ac8e58392c9f7acee94f",
+    "small": "87f700f2b66bd0bbe3c84c59c995bcd7",
+    "rect": [
+     -257.26,
+     -268.86,
+     289.66,
+     278.06
+    ],
+    "mid": "f16c72d901d6957217826049d449ff12"
+   },
+   "scene": "0d1cd07d320ce727da58dd1717b3230c",
+   "geom": "3b05753571c43f93171e7b2a345756bf",
+   "hm": "349b15b1e241447910c5f56ef6264552",
+   "flora": null,
+   "gameplay": "f5b3057b49067014c73bde53c32f4ad8",
+   "inst": "638c7f5603e33f1dc278c18910597bd5",
+   "packs": [
+    "19a268c96534fc78a8873e8b10d0f8bc",
+    "47ecfcabb9879100ddf36ba183a0fb84"
+   ],
+   "bytes": 15467399,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 256,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "35_rift_rt": {
+   "fp": "19b1fe2e9d9ac94d24d1d3c5e0735c28",
+   "pic": "c150588bcde5080769fb710a8d76f2b4",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "ca6ffe19c3060838abea743c2d806c10",
+    "small": "8f4ef7bce0af50092b6e5629b0b42c5a",
+    "rect": [
+     -281.68,
+     -283.78,
+     287.58,
+     285.48
+    ],
+    "mid": "251c12d1abbef8209af651a536537a5e"
+   },
+   "scene": "c538dd0db53e7d9d8f40d2ea7957caff",
+   "geom": "1981b278ba96042b2d6e7b156edfb373",
+   "hm": "cacc1da51299ceb565e4bb14a730114b",
+   "flora": null,
+   "gameplay": "93b1c34b5f34af7a43ef394e3fe44b56",
+   "inst": "2ee385e8e7d0472e9faec4e5a02f89b5",
+   "packs": [
+    "745b18390656ff95348a15e08c92c0b6",
+    "a8123934c134c36820183beb4e8cfd87"
+   ],
+   "bytes": 15554041,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "40_moon_mn": {
+   "fp": "5c8333b4fc2521cfaeaa716233beccd8",
+   "pic": "2ce8b08047756d4469a4fdccd5423d0c",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     70.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "c221199fd683af68bc1b10882141f1af",
+    "small": "b266f6f97c8460ced43fd3658bc59d07",
+    "rect": [
+     -268.92,
+     -270.87,
+     269.02,
+     267.07
+    ],
+    "mid": "25bc4ef11f5038e193dfee1be2256555"
+   },
+   "scene": "17dd0fba1dc72a733f9e189766909e42",
+   "geom": "87226a04dba56529338752fd100226bc",
+   "hm": "6cc0081ec9dfeb6d0bb714b37481a9b6",
+   "flora": null,
+   "gameplay": "54d935590e4b2b1d9b4028422c0b877e",
+   "inst": "3c4213b0f218b8556c138de3b98e3d27",
+   "packs": [
+    "53d23b74400d2fcc9fbc4a97bd9468ea",
+    "f3d80b35b8a8c875e2d08c1359c40632"
+   ],
+   "bytes": 12006463,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "41_iceworld_ic": {
+   "fp": "0c904c9c4317fa0307e21feeb78d1d5b",
+   "pic": "8928720eedeb58864732f08d5b998302",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     80.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "e4a0476615f94f767f01d09d388b6420",
+    "small": "d36a46f7c00fa002fa84a25f1d9e33b0",
+    "rect": [
+     -267.68,
+     -264.68,
+     263.68,
+     266.68
+    ],
+    "mid": "a082c10e6fb4f3ec08caad492b62b91b"
+   },
+   "scene": "7ea862b8b5f273d26c838fee8775ea7e",
+   "geom": "6182eafa4a7d20ded92872f6eae68d75",
+   "hm": "9d41bf0adc58f5c0d46dcf1b53631553",
+   "flora": null,
+   "gameplay": "51a72b7ee088540208eb1656133b794f",
+   "inst": "f2ec148ee5993890588a11e819d86fbb",
+   "packs": [
+    "5d052940b79fe525c37a959bdce1b778",
+    "c747275c332293078a88c6555dbb63ac"
+   ],
+   "bytes": 12165764,
+   "caps": {
+    "color": 1024,
+    "normal": 0,
+    "data": 512,
+    "light": 1024,
+    "land": 1024,
+    "tile": 1024,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "42_glacier_br": {
+   "fp": "047acd671a87517934bc8ddec1a5908e",
+   "pic": "5c955ded68ad33595cd5a8e3f4a89831",
+   "land": {
+    "bbox": [
+     -600.0,
+     -600.0,
+     0.0,
+     600.0,
+     600.0,
+     100.0
+    ],
+    "size": 1024,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "38b889312473bb85f905f2c7ebd2b8de",
+    "mid": "b474165030193b93324d6044e9811abf",
+    "small": "8afc038b0c41bb826f59bbff676f407b",
+    "rect": [
+     -540,
+     -540,
+     540,
+     540
+    ]
+   },
+   "scene": "b0ddb1994dba9f90de374ec01ce6a315",
+   "geom": "b4d89e12788c19cf42f2ddaeabe568dd",
+   "hm": "15c106c07e7ec36d591470b076135972",
+   "flora": null,
+   "gameplay": "f56df0b7652c22377ce28d4d4029863e",
+   "inst": "09e1b03cc717f892a267ce380f98f279",
+   "packs": [
+    "756f63b8ba29a21a7fff491981dc0567",
+    "a96105e22007563cb87ad78c9fd7cc59"
+   ],
+   "bytes": 16254195,
+   "caps": {
+    "color": 256,
+    "normal": 0,
+    "data": 128,
+    "light": 512,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
+    "other": 1024
+   }
+  },
+  "42_glacier_gl": {
+   "fp": "66439e9c2d68fc4d27952840f8eea00c",
+   "pic": "bdb35ea782e78f43dfce542f45733820",
+   "land": {
+    "bbox": [
+     -300.0,
+     -300.0,
+     0.0,
+     300.0,
+     300.0,
+     100.0
+    ],
+    "size": 512,
+    "m": [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   },
+   "top": {
+    "full": "5e04379dc863d92cd802591867c70e18",
+    "small": "43b2495972c05208c2c84294a421700e",
+    "rect": [
+     -270,
+     -270,
+     270,
+     270
+    ],
+    "mid": "fc93eaadbac39733822a4be510760b14"
+   },
+   "scene": "7354666d206ebe4019c3f3a18540a139",
+   "geom": "53048dff07eb73ee711e5f593f1d4795",
+   "hm": "941cfadaa892c74827328743468c7b98",
+   "flora": null,
+   "gameplay": "af1fa237e6b4186d6390f00253a8ab1c",
+   "inst": "73ac3596429a728da35d1cd320586398",
+   "packs": [
+    "12cbca15eb051c3b4b57d29afc5060d7",
+    "9698bbf3ee5a8de0a873816194980548"
+   ],
+   "bytes": 15482308,
+   "caps": {
+    "color": 512,
+    "normal": 0,
+    "data": 128,
+    "light": 1024,
+    "land": 1024,
+    "tile": 256,
+    "env": 128,
     "other": 256
    }
   }
