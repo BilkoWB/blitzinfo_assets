@@ -1,0 +1,350 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "26.4",
+ "from": "26.2.1",
+ "added": [
+  "glacier_02",
+  "glacier_03",
+  "mars_02",
+  "mars_03"
+ ],
+ "removed": [],
+ "changed": {
+  "01_mars_br": {
+   "keys": [
+    "mars_br"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 4
+   }
+  },
+  "01_mars_mr": {
+   "keys": [
+    "mars",
+    "mars_02",
+    "mars_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 2,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "base",
+    "border",
+    "point",
+    "spawn"
+   ],
+   "visual": {
+    "reexports": 4
+   }
+  },
+  "02_desert_train_dt": {
+   "keys": [
+    "desert_train",
+    "desert_train_02",
+    "desert_train_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg",
+    "erlenberg_01",
+    "erlenberg_02"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "15_lagoon_ln": {
+   "keys": [
+    "lagoon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf",
+    "himmelsdorf_02",
+    "himmelsdorf_03",
+    "himmelsdorf_04"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "31_lumber_lm": {
+   "keys": [
+    "lumber",
+    "lumber_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "33_neptune_nt": {
+   "keys": [
+    "neptune",
+    "neptune_01",
+    "neptune_02"
+   ],
+   "terrain": {
+    "area": 50238,
+    "max": 13.8,
+    "min": -18.21
+   },
+   "objects": {
+    "added": 1078,
+    "removed": 88,
+    "moved": 4,
+    "reseated": 0,
+    "reshaped": 4
+   },
+   "walls": {
+    "added": 42,
+    "removed": 2,
+    "moved": 0
+   },
+   "trees": {
+    "added": 58,
+    "removed": 3,
+    "moved": 0
+   },
+   "effects": {
+    "added": 2,
+    "removed": 34,
+    "moved": 0
+   },
+   "gameplay": [
+    "base",
+    "border",
+    "spawn"
+   ],
+   "visual": {
+    "environment": 5,
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 8,
+    "materials": 8,
+    "textures": 291
+   }
+  },
+  "42_glacier_br": {
+   "keys": [
+    "glacier_br"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "42_glacier_gl": {
+   "keys": [
+    "glacier",
+    "glacier_02",
+    "glacier_03"
+   ],
+   "terrain": {
+    "area": 368,
+    "max": 0.29,
+    "min": -1.86
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [
+    "base",
+    "border",
+    "point",
+    "spawn"
+   ],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}

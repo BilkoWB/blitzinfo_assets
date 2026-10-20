@@ -1,0 +1,91 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "12.6.0_1",
+ "from": "12.6.1",
+ "added": [
+  "himmelsdorf_02",
+  "himmelsdorf_03",
+  "himmelsdorf_04"
+ ],
+ "removed": [],
+ "changed": {
+  "04_medvedkovo_md": {
+   "keys": [
+    "medvedkovo",
+    "medvedkovo_02",
+    "medvedkovo_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 1
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "reexports": 211
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf",
+    "himmelsdorf_02",
+    "himmelsdorf_03",
+    "himmelsdorf_04"
+   ],
+   "terrain": {
+    "area": 194453,
+    "max": 23.14,
+    "min": -12.27
+   },
+   "objects": {
+    "added": 1196,
+    "removed": 1320,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 1,
+    "removed": 286,
+    "moved": 0
+   },
+   "trees": {
+    "added": 89,
+    "removed": 82,
+    "moved": 0
+   },
+   "effects": {
+    "added": 2,
+    "removed": 9,
+    "moved": 1
+   },
+   "gameplay": [
+    "base",
+    "border",
+    "point",
+    "spawn"
+   ],
+   "visual": {
+    "environment": 5,
+    "grass": 1,
+    "landscape": 1,
+    "textures": 472
+   }
+  }
+ }
+}

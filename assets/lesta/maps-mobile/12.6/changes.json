@@ -1,0 +1,1029 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "12.6",
+ "from": "12.4.0_3",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "01_mars_br": {
+   "keys": [
+    "mars_br"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "01_mars_mr": {
+   "keys": [
+    "mars"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "02_desert_train_dt": {
+   "keys": [
+    "desert_train",
+    "desert_train_02",
+    "desert_train_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg",
+    "erlenberg_01",
+    "erlenberg_02"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "04_medvedkovo_md": {
+   "keys": [
+    "medvedkovo",
+    "medvedkovo_02",
+    "medvedkovo_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 1
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "05_amigosville_am": {
+   "keys": [
+    "amigosville",
+    "amigosville_02",
+    "amigosville_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "06_rudniki_rd": {
+   "keys": [
+    "rudniki",
+    "rudniki_01",
+    "rudniki_02",
+    "rudniki_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "07_fort_ft": {
+   "keys": [
+    "fort"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "08_idle_id": {
+   "keys": [
+    "idle"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "09_savanna_sv": {
+   "keys": [
+    "savanna"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "11_plant_pn": {
+   "keys": [
+    "plant"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "12_malinovka_ma": {
+   "keys": [
+    "malinovka"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 379
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 244
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 22
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 222,
+    "textures": 8
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "15_lagoon_ln": {
+   "keys": [
+    "lagoon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 257
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 112
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 33
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "textures": 8
+   }
+  },
+  "16_holland_hl": {
+   "keys": [
+    "holland"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "17_karelia_ka": {
+   "keys": [
+    "karelia"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 5
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal",
+    "canal_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "22_italy_it": {
+   "keys": [
+    "italy"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "23_karieri_kr": {
+   "keys": [
+    "karieri"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "24_milibase_mlb": {
+   "keys": [
+    "milbase",
+    "milbase_02",
+    "milbase_03",
+    "milbase_04",
+    "milbase_05"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "25_canyon_ca": {
+   "keys": [
+    "canyon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "26_holmeisk_hk": {
+   "keys": [
+    "holmeisk"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "28_rock_rc": {
+   "keys": [
+    "rock"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "29_skit_sk": {
+   "keys": [
+    "skit"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "30_grossberg_sh": {
+   "keys": [
+    "grossberg"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "31_lumber_lm": {
+   "keys": [
+    "lumber",
+    "lumber_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "32_faust_fa_night": {
+   "keys": [
+    "faust"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 74,
+    "textures": 8
+   }
+  },
+  "33_neptune_nt": {
+   "keys": [
+    "neptune",
+    "neptune_01",
+    "neptune_02"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 516
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 92
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 47
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "35_rift_rt": {
+   "keys": [
+    "rift"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 152,
+    "textures": 8
+   }
+  },
+  "40_moon_mn": {
+   "keys": [
+    "moon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "41_iceworld_ic": {
+   "keys": [
+    "iceworld"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 8
+   }
+  },
+  "42_glacier_br": {
+   "keys": [
+    "glacier_br"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 2
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "visual": {
+    "lightmaps": 1,
+    "materials": 3,
+    "reexports": 4,
+    "textures": 12
+   }
+  },
+  "42_glacier_gl": {
+   "keys": [
+    "glacier"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "visual": {
+    "materials": 1,
+    "reexports": 2,
+    "textures": 12
+   }
+  }
+ }
+}

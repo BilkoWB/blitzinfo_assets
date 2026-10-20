@@ -1,0 +1,172 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "11.6.0_2",
+ "from": "11.6",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg",
+    "erlenberg_01",
+    "erlenberg_02"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "15_lagoon_ln": {
+   "keys": [
+    "lagoon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 464
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 28
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 28
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "31_lumber_lm": {
+   "keys": [
+    "lumber",
+    "lumber_01"
+   ],
+   "terrain": {
+    "area": 52471,
+    "max": 30.21,
+    "min": -9.39
+   },
+   "objects": {
+    "added": 511,
+    "removed": 402,
+    "moved": 9,
+    "reseated": 31,
+    "reshaped": 5,
+    "behaviour": 101
+   },
+   "walls": {
+    "added": 40,
+    "removed": 2,
+    "moved": 0,
+    "reseated": 1
+   },
+   "trees": {
+    "added": 0,
+    "removed": 1,
+    "moved": 17,
+    "reseated": 11,
+    "behaviour": 97
+   },
+   "effects": {
+    "added": 3,
+    "removed": 51,
+    "moved": 0
+   },
+   "gameplay": [
+    "border",
+    "spawn"
+   ],
+   "visual": {
+    "environment": 6,
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 146,
+    "materials": 294,
+    "reexports": 133,
+    "textures": 310
+   }
+  }
+ }
+}

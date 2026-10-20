@@ -1,0 +1,62 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "11.8.1_1",
+ "from": "11.8.1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}

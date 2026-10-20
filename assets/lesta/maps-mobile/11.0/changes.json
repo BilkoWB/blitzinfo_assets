@@ -1,0 +1,11 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "11.0",
+ "from": "10.11",
+ "added": [
+  "glacier"
+ ],
+ "removed": [],
+ "changed": {}
+}

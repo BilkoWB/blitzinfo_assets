@@ -1,0 +1,104 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "11.4",
+ "from": "11.2.1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "42_glacier_br": {
+   "keys": [
+    "glacier_br"
+   ],
+   "terrain": {
+    "area": 1870,
+    "max": 1.23,
+    "min": -16.75
+   },
+   "objects": {
+    "added": 21,
+    "removed": 97,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 2,
+    "removed": 2,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 2,
+    "landscape": 1,
+    "textures": 193
+   }
+  },
+  "42_glacier_gl": {
+   "keys": [
+    "glacier"
+   ],
+   "terrain": {
+    "area": 1918,
+    "max": 1.45,
+    "min": -22.81
+   },
+   "objects": {
+    "added": 3,
+    "removed": 36,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 3,
+    "landscape": 1,
+    "lightmaps": 2,
+    "materials": 1,
+    "textures": 154
+   }
+  }
+ }
+}

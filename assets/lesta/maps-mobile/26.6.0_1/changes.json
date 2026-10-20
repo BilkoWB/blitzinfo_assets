@@ -1,0 +1,55 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "26.6.0_1",
+ "from": "26.6",
+ "added": [
+  "cybermap"
+ ],
+ "removed": [],
+ "changed": {
+  "33_neptune_nt": {
+   "keys": [
+    "neptune",
+    "neptune_01",
+    "neptune_02"
+   ],
+   "terrain": {
+    "area": 214,
+    "max": 0.91,
+    "min": -0.44
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 9,
+    "reseated": 19,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "walls": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "behaviour": 3
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 3
+   },
+   "gameplay": [
+    "base",
+    "spawn"
+   ],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 3,
+    "materials": 6,
+    "reexports": 11,
+    "textures": 10
+   }
+  }
+ }
+}

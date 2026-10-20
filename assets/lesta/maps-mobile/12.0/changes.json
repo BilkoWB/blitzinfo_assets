@@ -1,0 +1,15 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "12.0",
+ "from": "11.10",
+ "added": [
+  "mars"
+ ],
+ "removed": [
+  "holmeisk",
+  "iceworld",
+  "moon"
+ ],
+ "changed": {}
+}

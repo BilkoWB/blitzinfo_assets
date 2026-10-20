@@ -1,0 +1,389 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "12.2.0_2",
+ "from": "12.2",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "04_medvedkovo_md": {
+   "keys": [
+    "medvedkovo",
+    "medvedkovo_02",
+    "medvedkovo_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 1
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "05_amigosville_am": {
+   "keys": [
+    "amigosville",
+    "amigosville_02",
+    "amigosville_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "11_plant_pn": {
+   "keys": [
+    "plant"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 277
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 144
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 61
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 799
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 260
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 22
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal",
+    "canal_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 427
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 110
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 19
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "22_italy_it": {
+   "keys": [
+    "italy"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 309
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 102
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 49
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "24_milibase_mlb": {
+   "keys": [
+    "milbase",
+    "milbase_02",
+    "milbase_03",
+    "milbase_04",
+    "milbase_05"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 238
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 51
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 21
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "25_canyon_ca": {
+   "keys": [
+    "canyon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "29_skit_sk": {
+   "keys": [
+    "skit"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 84
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 49
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 55
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "30_grossberg_sh": {
+   "keys": [
+    "grossberg"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 921
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 184
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 9
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "31_lumber_lm": {
+   "keys": [
+    "lumber",
+    "lumber_01"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  },
+  "32_faust_fa_night": {
+   "keys": [
+    "faust"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 5
+   }
+  }
+ }
+}

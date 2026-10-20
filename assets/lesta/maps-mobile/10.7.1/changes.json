@@ -1,0 +1,39 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "10.7.1",
+ "from": "10.7.1_1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "35_rift_rt": {
+   "keys": [
+    "rift"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 4
+   },
+   "gameplay": [],
+   "visual": {}
+  }
+ }
+}

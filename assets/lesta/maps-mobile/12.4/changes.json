@@ -1,0 +1,172 @@
+{
+ "format": 1,
+ "client": "lesta",
+ "version": "12.4",
+ "from": "12.2.0_2",
+ "added": [
+  "holmeisk",
+  "iceworld",
+  "moon"
+ ],
+ "removed": [],
+ "changed": {
+  "01_mars_br": {
+   "keys": [
+    "mars_br"
+   ],
+   "terrain": {
+    "area": 6807,
+    "max": 13.37,
+    "min": -12.03
+   },
+   "objects": {
+    "added": 7,
+    "removed": 5,
+    "moved": 2,
+    "reseated": 0,
+    "reshaped": 1
+   },
+   "walls": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 2,
+    "materials": 1,
+    "textures": 12
+   }
+  },
+  "01_mars_mr": {
+   "keys": [
+    "mars"
+   ],
+   "terrain": {
+    "area": 34166,
+    "max": 12.9,
+    "min": -12.68
+   },
+   "objects": {
+    "added": 7,
+    "removed": 4,
+    "moved": 1,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 1,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 1,
+    "textures": 12
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "terrain": {
+    "area": 19998,
+    "max": 7.07,
+    "min": -2.35
+   },
+   "objects": {
+    "added": 1,
+    "removed": 2,
+    "moved": 9,
+    "reseated": 20,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 2,
+    "removed": 1,
+    "moved": 4,
+    "reseated": 13
+   },
+   "gameplay": [
+    "spawn"
+   ],
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 12,
+    "textures": 18
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}
