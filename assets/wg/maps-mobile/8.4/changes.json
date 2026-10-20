@@ -1,0 +1,98 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "8.4",
+ "from": "8.3",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "11_plant_pn": {
+   "keys": [
+    "plant"
+   ],
+   "objects": {
+    "added": 2,
+    "removed": 2,
+    "moved": 1,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "walls": {
+    "added": 4,
+    "removed": 0,
+    "moved": 1
+   },
+   "trees": {
+    "added": 101,
+    "removed": 101,
+    "moved": 0
+   },
+   "gameplay": [
+    "spawn"
+   ],
+   "visual": {
+    "landscape": 1,
+    "textures": 1
+   }
+  },
+  "33_neptune_nt": {
+   "keys": [
+    "neptune",
+    "neptune_01",
+    "neptune_02"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reshaped": 1
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "lightmaps": 1,
+    "materials": 1
+   }
+  },
+  "40_moon_mn": {
+   "keys": [
+    "moon"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 5,
+    "removed": 5,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "border"
+   ],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}

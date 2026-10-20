@@ -1,0 +1,13 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.9",
+ "from": "11.8",
+ "added": [
+  "asia",
+  "lake",
+  "malina"
+ ],
+ "removed": [],
+ "changed": {}
+}

@@ -1,0 +1,132 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.18",
+ "from": "11.17",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "05_amigosville_am": {
+   "keys": [
+    "amigosville",
+    "amigosville_02",
+    "amigosville_03"
+   ],
+   "terrain": {
+    "area": 97458,
+    "max": 7.52,
+    "min": -4.95
+   },
+   "objects": {
+    "added": 383,
+    "removed": 134,
+    "moved": 127,
+    "reseated": 87,
+    "reshaped": 0,
+    "behaviour": 52
+   },
+   "walls": {
+    "added": 1,
+    "removed": 1,
+    "moved": 1
+   },
+   "trees": {
+    "added": 325,
+    "removed": 19,
+    "moved": 37,
+    "reshaped": 10,
+    "reseated": 33
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 3
+   },
+   "gameplay": [
+    "border",
+    "spawn"
+   ],
+   "visual": {
+    "environment": 1,
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 702,
+    "materials": 14,
+    "reexports": 63,
+    "textures": 16
+   }
+  },
+  "09_savanna_sv": {
+   "keys": [
+    "savanna"
+   ],
+   "terrain": {
+    "area": 223270,
+    "max": 4.86,
+    "min": -10.11
+   },
+   "objects": {
+    "added": 148,
+    "removed": 91,
+    "moved": 288,
+    "reseated": 181,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 58,
+    "removed": 7,
+    "moved": 59,
+    "reshaped": 1,
+    "reseated": 64
+   },
+   "gameplay": [
+    "base",
+    "border",
+    "point",
+    "spawn"
+   ],
+   "visual": {
+    "environment": 1,
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 520,
+    "materials": 159,
+    "reexports": 11,
+    "textures": 7
+   }
+  },
+  "35_rift_rt": {
+   "keys": [
+    "rift"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "textures": 1
+   }
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "4.3",
+ "from": "4.2",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "29_skit_sk": {
+   "keys": [
+    "skit"
+   ],
+   "terrain": {
+    "area": 16845,
+    "max": 14.63,
+    "min": -7.16
+   },
+   "objects": {
+    "added": 40,
+    "removed": 3,
+    "moved": 5,
+    "reseated": 3,
+    "reshaped": 0,
+    "behaviour": 5
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 250,
+    "materials": 4,
+    "reexports": 4,
+    "textures": 4
+   }
+  }
+ }
+}

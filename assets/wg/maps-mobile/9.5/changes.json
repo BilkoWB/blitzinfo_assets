@@ -1,0 +1,40 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "9.5",
+ "from": "9.4",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "06_rudniki_rd": {
+   "keys": [
+    "rudniki",
+    "rudniki_01",
+    "rudniki_02",
+    "rudniki_03"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 2
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1
+   }
+  }
+ }
+}

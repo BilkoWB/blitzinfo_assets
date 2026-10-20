@@ -1,0 +1,133 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "7.9",
+ "from": "7.8",
+ "added": [
+  "rudniki_01",
+  "rudniki_02",
+  "rudniki_03"
+ ],
+ "removed": [
+  "asia",
+  "lake",
+  "ordeal",
+  "tutorial"
+ ],
+ "changed": {
+  "06_rudniki_rd": {
+   "keys": [
+    "rudniki",
+    "rudniki_01",
+    "rudniki_02",
+    "rudniki_03"
+   ],
+   "terrain": {
+    "area": 1022,
+    "max": 4.62,
+    "min": -0.51
+   },
+   "objects": {
+    "added": 436,
+    "removed": 110,
+    "moved": 4,
+    "reseated": 8,
+    "reshaped": 1,
+    "behaviour": 549
+   },
+   "walls": {
+    "added": 3,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 4,
+    "behaviour": 129
+   },
+   "effects": {
+    "added": 38,
+    "removed": 15,
+    "moved": 0
+   },
+   "gameplay": [
+    "base",
+    "border",
+    "spawn"
+   ],
+   "supremacy": {
+    "rudniki": [
+     800,
+     null
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 708,
+    "materials": 146,
+    "textures": 33
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 625
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 122
+   },
+   "effects": {
+    "added": 0,
+    "removed": 2,
+    "moved": 0,
+    "behaviour": 3
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "30_grossberg_sh": {
+   "keys": [
+    "grossberg"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}

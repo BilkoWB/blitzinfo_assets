@@ -1,0 +1,315 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "3.4.2",
+ "from": "3.4",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "02_desert_train_dt": {
+   "keys": [
+    "desert_train"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1
+   }
+  },
+  "05_amigosville_am": {
+   "keys": [
+    "amigosville"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "06_rudniki_rd": {
+   "keys": [
+    "rudniki"
+   ],
+   "terrain": {
+    "area": 1505,
+    "max": 11.72,
+    "min": -0.23
+   },
+   "objects": {
+    "added": 1,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 1,
+    "reshaped": 0,
+    "behaviour": 2
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 810,
+    "materials": 149,
+    "textures": 6
+   }
+  },
+  "09_savanna_sv": {
+   "keys": [
+    "savanna"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "textures": 1
+   }
+  },
+  "10_asia_as": {
+   "keys": [
+    "asia"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "materials": 1,
+    "textures": 1
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "terrain": {
+    "area": 580,
+    "max": 2.23,
+    "min": -3.76
+   },
+   "objects": {
+    "added": 12,
+    "removed": 26,
+    "moved": 255,
+    "reseated": 1,
+    "reshaped": 6,
+    "behaviour": 542
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 1275,
+    "materials": 1484,
+    "reexports": 7,
+    "textures": 6
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "materials": 2
+   }
+  },
+  "20_lake_lk": {
+   "keys": [
+    "lake"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "materials": 10,
+    "textures": 1
+   }
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "24_milibase_mlb": {
+   "keys": [
+    "milbase"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  }
+ }
+}

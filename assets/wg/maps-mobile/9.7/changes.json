@@ -1,0 +1,155 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "9.7",
+ "from": "9.6",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg",
+    "erlenberg_01",
+    "erlenberg_02"
+   ],
+   "terrain": {
+    "area": 34809,
+    "max": 17.0,
+    "min": -16.07
+   },
+   "objects": {
+    "added": 656,
+    "removed": 450,
+    "moved": 274,
+    "reseated": 25,
+    "reshaped": 8,
+    "behaviour": 130
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 255,
+    "removed": 290,
+    "moved": 0
+   },
+   "effects": {
+    "added": 6,
+    "removed": 1,
+    "moved": 1,
+    "behaviour": 5
+   },
+   "gameplay": [
+    "border",
+    "spawn"
+   ],
+   "visual": {
+    "environment": 6,
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 466,
+    "materials": 467,
+    "reexports": 182,
+    "textures": 346
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "landscape": 1,
+    "textures": 13
+   }
+  },
+  "16_holland_hl": {
+   "keys": [
+    "holland"
+   ],
+   "terrain": {
+    "area": 325,
+    "max": 0.33,
+    "min": -0.82
+   },
+   "objects": {
+    "added": 0,
+    "removed": 2,
+    "moved": 0,
+    "reseated": 14,
+    "reshaped": 0,
+    "behaviour": 644
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 1,
+    "behaviour": 107
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 28
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 6,
+    "grass": 1,
+    "reexports": 125,
+    "textures": 2
+   }
+  },
+  "41_iceworld_ic": {
+   "keys": [
+    "iceworld"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}

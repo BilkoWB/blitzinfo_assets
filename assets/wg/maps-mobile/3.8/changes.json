@@ -1,0 +1,91 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "3.8",
+ "from": "3.7",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "06_rudniki_rd": {
+   "keys": [
+    "rudniki"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal"
+   ],
+   "terrain": {
+    "area": 1001,
+    "max": 1.28,
+    "min": -2.94
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "23_karieri_kr": {
+   "keys": [
+    "karieri"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 1,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "spawn"
+   ],
+   "visual": {}
+  }
+ }
+}

@@ -1,0 +1,1 @@
+{"format":1,"folder":"19_himmelsdorf_hm","from":"6.8","to":"6.9","items":[{"kind":"effect","change":"behaviour","id":4720,"name":"camera_weather_effects","col":null,"from":{"pos":[0.0,2.39,2.56],"yaw":0.0},"to":{"pos":[0.0,2.39,2.56],"yaw":0.0},"fields":{"particles":["e2c3d8f52fc0f3e8","e166c2d3937e0b20"]}}],"gameplay":[]}

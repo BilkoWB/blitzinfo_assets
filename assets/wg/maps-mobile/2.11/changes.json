@@ -1,0 +1,213 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "2.11",
+ "from": "2.10",
+ "added": [
+  "italy"
+ ],
+ "removed": [],
+ "changed": {
+  "01_tutorial_tut": {
+   "keys": [
+    "tutorial"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 4
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 3
+   }
+  },
+  "02_desert_train_dt": {
+   "keys": [
+    "desert_train"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 3
+   }
+  },
+  "09_savanna_sv": {
+   "keys": [
+    "savanna"
+   ],
+   "terrain": {
+    "area": 169393,
+    "max": 4.45,
+    "min": -12.21
+   },
+   "objects": {
+    "added": 11,
+    "removed": 3,
+    "moved": 35,
+    "reseated": 163,
+    "reshaped": 1,
+    "behaviour": 131
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 9,
+    "removed": 5,
+    "moved": 5,
+    "reshaped": 38,
+    "reseated": 15
+   },
+   "gameplay": [
+    "spawn"
+   ],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 600,
+    "materials": 83,
+    "reexports": 76,
+    "textures": 9
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  },
+  "15_ordeal_ord": {
+   "keys": [
+    "ordeal"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "reexports": 6
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 4
+   }
+  },
+  "20_lake_lk": {
+   "keys": [
+    "lake"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "spawn"
+   ],
+   "visual": {}
+  }
+ }
+}

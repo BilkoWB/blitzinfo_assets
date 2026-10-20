@@ -1,0 +1,262 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "1.2",
+ "from": "1.1.1",
+ "added": [
+  "savanna"
+ ],
+ "removed": [],
+ "changed": {
+  "amigosville": {
+   "keys": [
+    "amigosville"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 412
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 455
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 2
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 1007
+   }
+  },
+  "desert_train": {
+   "keys": [
+    "desert_train"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 394
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 97
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 513
+   }
+  },
+  "erlenberg": {
+   "keys": [
+    "erlenberg"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 1248
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 256
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 4
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 1558
+   }
+  },
+  "fort": {
+   "keys": [
+    "fort"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 190
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 306
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 511
+   }
+  },
+  "karelia": {
+   "keys": [
+    "karelia"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 64
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 250
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 275
+   }
+  },
+  "karieri": {
+   "keys": [
+    "karieri"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 298
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 40
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 488
+   }
+  },
+  "medvedkovo": {
+   "keys": [
+    "medvedkovo"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 86
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 345
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 596
+   }
+  },
+  "rudniki": {
+   "keys": [
+    "rudniki"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 296
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 218
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "reexports": 703
+   }
+  }
+ }
+}

@@ -1,0 +1,376 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "3.2",
+ "from": "3.1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg"
+   ],
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "textures": 1
+   }
+  },
+  "05_amigosville_am": {
+   "keys": [
+    "amigosville"
+   ],
+   "terrain": {
+    "area": 21,
+    "max": 0.13,
+    "min": -0.34
+   },
+   "objects": {
+    "added": 2,
+    "removed": 0,
+    "moved": 67,
+    "reseated": 18,
+    "reshaped": 0,
+    "behaviour": 8
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "lightmaps": 918,
+    "materials": 8,
+    "reexports": 8,
+    "textures": 4
+   }
+  },
+  "10_asia_as": {
+   "keys": [
+    "asia"
+   ],
+   "terrain": {
+    "area": 816,
+    "max": 0.81,
+    "min": -0.06
+   },
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 172
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "lightmaps": 940,
+    "materials": 172,
+    "reexports": 172,
+    "textures": 3
+   }
+  },
+  "12_malinovka_ma": {
+   "keys": [
+    "malinovka"
+   ],
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 102
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "lightmaps": 102,
+    "materials": 102,
+    "reexports": 102
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "terrain": {
+    "area": 1402,
+    "max": 2.61,
+    "min": -3.13
+   },
+   "objects": {
+    "added": 2,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 1,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "terrain": {
+    "area": 0,
+    "max": 0.22,
+    "min": 0.0
+   },
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "textures": 2
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal"
+   ],
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "materials": 1,
+    "reexports": 1,
+    "textures": 1
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf"
+   ],
+   "terrain": {
+    "area": 114,
+    "max": 0.72,
+    "min": -2.69
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  },
+  "20_lake_lk": {
+   "keys": [
+    "lake"
+   ],
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 19
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "materials": 19
+   }
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "materials": 4,
+    "textures": 1
+   }
+  },
+  "24_milibase_mlb": {
+   "keys": [
+    "milbase"
+   ],
+   "objects": {
+    "added": 3,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "materials": 26,
+    "textures": 2
+   }
+  },
+  "fort": {
+   "keys": [
+    "fort"
+   ],
+   "objects": {
+    "added": 2,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "textures": 1
+   }
+  }
+ }
+}

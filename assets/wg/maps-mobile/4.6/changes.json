@@ -1,0 +1,47 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "4.6",
+ "from": "4.5",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "04_medvedkovo_md": {
+   "keys": [
+    "medvedkovo"
+   ],
+   "terrain": {
+    "area": 1750,
+    "max": 16.76,
+    "min": -1.31
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 3,
+    "reseated": 4,
+    "reshaped": 0,
+    "behaviour": 23
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 4
+   },
+   "gameplay": [],
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 479,
+    "materials": 38,
+    "reexports": 26,
+    "textures": 5
+   }
+  }
+ }
+}

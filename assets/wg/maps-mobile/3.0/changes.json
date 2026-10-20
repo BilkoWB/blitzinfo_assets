@@ -1,0 +1,706 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "3.0",
+ "from": "2.11",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "01_tutorial_tut": {
+   "keys": [
+    "tutorial"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1
+   }
+  },
+  "02_desert_train_dt": {
+   "keys": [
+    "desert_train"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "desert_train": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "materials": 43,
+    "textures": 6
+   }
+  },
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "erlenberg": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1
+   }
+  },
+  "09_savanna_sv": {
+   "keys": [
+    "savanna"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "savanna": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 23,
+    "textures": 3
+   }
+  },
+  "10_asia_as": {
+   "keys": [
+    "asia"
+   ],
+   "terrain": {
+    "area": 1077,
+    "max": 1.01,
+    "min": -3.22
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 83,
+    "reshaped": 1,
+    "behaviour": 80
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 9,
+    "behaviour": 160
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "asia": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 943,
+    "materials": 305,
+    "reexports": 160,
+    "textures": 9
+   }
+  },
+  "12_malinovka_ma": {
+   "keys": [
+    "malinovka"
+   ],
+   "terrain": {
+    "area": 56,
+    "max": 0.52,
+    "min": -0.35
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "malinovka": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 21,
+    "textures": 1
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "pliego": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 205,
+    "textures": 1
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "port": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 211,
+    "textures": 5
+   }
+  },
+  "15_ordeal_ord": {
+   "keys": [
+    "ordeal"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "grass": 1,
+    "reexports": 6
+   }
+  },
+  "17_karelia_ka": {
+   "keys": [
+    "karelia"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "karelia": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 382,
+    "textures": 7
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 48
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "canal": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 114,
+    "textures": 1
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "himmelsdorf": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 19,
+    "textures": 4
+   }
+  },
+  "20_lake_lk": {
+   "keys": [
+    "lake"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 3,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 1
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "lake": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 80,
+    "textures": 3
+   }
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "terrain": {
+    "area": 8,
+    "max": 0.28,
+    "min": -0.12
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 2,
+    "reshaped": 0,
+    "behaviour": 33
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 28
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "mountain": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "materials": 22,
+    "textures": 6
+   }
+  },
+  "22_italy_it_night": {
+   "keys": [
+    "italy"
+   ],
+   "terrain": {
+    "area": 1,
+    "max": 0.25,
+    "min": -0.06
+   },
+   "objects": {
+    "added": 2,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 1,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "italy": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1
+   }
+  },
+  "fort": {
+   "keys": [
+    "fort"
+   ],
+   "terrain": {
+    "area": 121,
+    "max": 2.08,
+    "min": -0.07
+   },
+   "objects": {
+    "added": 46,
+    "removed": 3,
+    "moved": 2,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 96
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 1
+   },
+   "effects": {
+    "added": 1,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "base",
+    "point"
+   ],
+   "supremacy": {
+    "fort": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 224,
+    "materials": 633,
+    "textures": 18
+   }
+  },
+  "karieri": {
+   "keys": [
+    "karieri"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "supremacy": {
+    "karieri": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1
+   }
+  },
+  "medvedkovo": {
+   "keys": [
+    "medvedkovo"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "medvedkovo": [
+     null,
+     900
+    ]
+   },
+   "visual": {}
+  },
+  "rudniki": {
+   "keys": [
+    "rudniki"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 2
+   },
+   "gameplay": [
+    "point"
+   ],
+   "supremacy": {
+    "rudniki": [
+     null,
+     900
+    ]
+   },
+   "visual": {
+    "grass": 1
+   }
+  }
+ }
+}

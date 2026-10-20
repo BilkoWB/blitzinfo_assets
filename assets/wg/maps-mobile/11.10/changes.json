@@ -1,0 +1,9 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.10",
+ "from": "11.9.1_1",
+ "added": [],
+ "removed": [],
+ "changed": {}
+}

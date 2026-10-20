@@ -1,0 +1,843 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "3.1",
+ "from": "3.0.1",
+ "added": [
+  "milbase",
+  "test"
+ ],
+ "removed": [],
+ "changed": {
+  "01_tutorial_tut": {
+   "keys": [
+    "tutorial"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 47
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 52
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 7
+   },
+   "gameplay": [],
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "02_desert_train_dt": {
+   "keys": [
+    "desert_train"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 1,
+    "reshaped": 0,
+    "behaviour": 461
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 52
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "03_erlenberg_er": {
+   "keys": [
+    "erlenberg"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 482
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 66
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 2,
+    "textures": 3
+   }
+  },
+  "05_amigosville_am": {
+   "keys": [
+    "amigosville"
+   ],
+   "terrain": {
+    "area": 15,
+    "max": 0.15,
+    "min": -0.37
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 6,
+    "reshaped": 0,
+    "behaviour": 481
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 57
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 2
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 2,
+    "textures": 2
+   }
+  },
+  "09_savanna_sv": {
+   "keys": [
+    "savanna"
+   ],
+   "terrain": {
+    "area": 257,
+    "max": 0.83,
+    "min": -0.8
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 526
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 38
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "10_asia_as": {
+   "keys": [
+    "asia"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 832
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 107
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1545,
+    "textures": 4
+   }
+  },
+  "12_malinovka_ma": {
+   "keys": [
+    "malinovka"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 491
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 244
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 2
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 16
+   }
+  },
+  "13_pliego_pl": {
+   "keys": [
+    "pliego"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 1,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 848
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 275
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "materials": 1,
+    "textures": 4
+   }
+  },
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "terrain": {
+    "area": 5718,
+    "max": 3.78,
+    "min": -2.26
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 954
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 1,
+    "moved": 0,
+    "behaviour": 162
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 3
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 2,
+    "textures": 3
+   }
+  },
+  "15_ordeal_ord": {
+   "keys": [
+    "ordeal"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 452
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 114
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "reexports": 6,
+    "textures": 2
+   }
+  },
+  "17_karelia_ka": {
+   "keys": [
+    "karelia"
+   ],
+   "terrain": {
+    "area": 118,
+    "max": 0.97,
+    "min": -2.62
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 479
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 83
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 498,
+    "materials": 237,
+    "reexports": 236,
+    "textures": 4
+   }
+  },
+  "18_canal_cn": {
+   "keys": [
+    "canal"
+   ],
+   "terrain": {
+    "area": 3632,
+    "max": 3.01,
+    "min": -1.32
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 340
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 74
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 3
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 755,
+    "textures": 5
+   }
+  },
+  "19_himmelsdorf_hm": {
+   "keys": [
+    "himmelsdorf"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 1003
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "20_lake_lk": {
+   "keys": [
+    "lake"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 577
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 29
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 2
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1170,
+    "textures": 4
+   }
+  },
+  "21_mountain_mnt": {
+   "keys": [
+    "mountain"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 626
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 28
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 11
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "22_italy_it_night": {
+   "keys": [
+    "italy"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 676
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 153
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 2,
+    "textures": 3
+   }
+  },
+  "fort": {
+   "keys": [
+    "fort"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 37,
+    "moved": 6,
+    "reseated": 1,
+    "reshaped": 0,
+    "behaviour": 210
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 62
+   },
+   "effects": {
+    "added": 0,
+    "removed": 1,
+    "moved": 0
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "lightmaps": 231,
+    "materials": 7,
+    "textures": 5
+   }
+  },
+  "karieri": {
+   "keys": [
+    "karieri"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 267
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 40
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "medvedkovo": {
+   "keys": [
+    "medvedkovo"
+   ],
+   "terrain": {
+    "area": 0,
+    "max": 0.0,
+    "min": -0.13
+   },
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 184
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 345
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 1,
+    "textures": 2
+   }
+  },
+  "rudniki": {
+   "keys": [
+    "rudniki"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 217
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 106
+   },
+   "gameplay": [],
+   "modes": {
+    "from": [],
+    "to": [
+     0,
+     1
+    ]
+   },
+   "visual": {
+    "landscape": 1,
+    "materials": 718,
+    "textures": 4
+   }
+  }
+ }
+}

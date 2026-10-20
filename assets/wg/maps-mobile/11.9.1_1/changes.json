@@ -1,0 +1,35 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.9.1_1",
+ "from": "11.9.1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "12_malinovka_old": {
+   "keys": [
+    "malina"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 1
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {}
+  }
+ }
+}

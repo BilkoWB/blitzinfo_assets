@@ -1,0 +1,267 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "1.1",
+ "from": "1.0.1",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "amigosville": {
+   "keys": [
+    "amigosville"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 356
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 273
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 2
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 2,
+    "landscape": 1,
+    "textures": 90
+   }
+  },
+  "desert_train": {
+   "keys": [
+    "desert_train"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 363
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 21
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 2,
+    "landscape": 1,
+    "textures": 57
+   }
+  },
+  "erlenberg": {
+   "keys": [
+    "erlenberg"
+   ],
+   "objects": {
+    "added": 2,
+    "removed": 2,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 475
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 143
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 4
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 2,
+    "landscape": 1,
+    "textures": 77
+   }
+  },
+  "fort": {
+   "keys": [
+    "fort"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 96
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 244
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "landscape": 1,
+    "textures": 60
+   }
+  },
+  "karelia": {
+   "keys": [
+    "karelia"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 18
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 153
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 2,
+    "landscape": 1,
+    "textures": 54
+   }
+  },
+  "karieri": {
+   "keys": [
+    "karieri"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 220
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "effects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 1
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 2,
+    "landscape": 1,
+    "textures": 71
+   }
+  },
+  "medvedkovo": {
+   "keys": [
+    "medvedkovo"
+   ],
+   "objects": {
+    "added": 1,
+    "removed": 1,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 71
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 256
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "landscape": 1,
+    "textures": 58
+   }
+  },
+  "rudniki": {
+   "keys": [
+    "rudniki"
+   ],
+   "objects": {
+    "added": 2,
+    "removed": 2,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0,
+    "behaviour": 295
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "behaviour": 115
+   },
+   "gameplay": [],
+   "visual": {
+    "environment": 1,
+    "landscape": 1,
+    "textures": 65
+   }
+  }
+ }
+}

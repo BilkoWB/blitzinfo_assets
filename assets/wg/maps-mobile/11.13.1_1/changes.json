@@ -1,0 +1,77 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.13.1_1",
+ "from": "11.13",
+ "added": [],
+ "removed": [],
+ "changed": {
+  "14_port_pt": {
+   "keys": [
+    "port"
+   ],
+   "objects": {
+    "added": 606,
+    "removed": 261,
+    "moved": 40,
+    "reseated": 7,
+    "reshaped": 0,
+    "behaviour": 56
+   },
+   "walls": {
+    "added": 0,
+    "removed": 117,
+    "moved": 0
+   },
+   "trees": {
+    "added": 123,
+    "removed": 4,
+    "moved": 11,
+    "behaviour": 61
+   },
+   "effects": {
+    "added": 0,
+    "removed": 5,
+    "moved": 0
+   },
+   "gameplay": [
+    "spawn"
+   ],
+   "visual": {
+    "environment": 5,
+    "grass": 1,
+    "landscape": 1,
+    "lightmaps": 1046,
+    "materials": 718,
+    "reexports": 48,
+    "textures": 62
+   }
+  },
+  "34_forgecity_fc": {
+   "keys": [
+    "forgecity"
+   ],
+   "objects": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0,
+    "reseated": 0,
+    "reshaped": 0
+   },
+   "walls": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "trees": {
+    "added": 0,
+    "removed": 0,
+    "moved": 0
+   },
+   "gameplay": [],
+   "visual": {
+    "textures": 1
+   }
+  }
+ }
+}

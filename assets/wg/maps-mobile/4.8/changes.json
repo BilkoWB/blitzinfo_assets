@@ -1,0 +1,11 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "4.8",
+ "from": "4.7",
+ "added": [
+  "test"
+ ],
+ "removed": [],
+ "changed": {}
+}

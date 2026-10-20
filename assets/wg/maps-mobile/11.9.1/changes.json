@@ -1,0 +1,15 @@
+{
+ "format": 1,
+ "client": "wg",
+ "version": "11.9.1",
+ "from": "11.9",
+ "added": [],
+ "removed": [
+  "canyon",
+  "holland",
+  "plant",
+  "rock",
+  "savanna"
+ ],
+ "changed": {}
+}
