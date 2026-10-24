@@ -1,0 +1,1 @@
+{"acts":[{"at":0.0,"dv":0.0,"e":0,"ev":1,"t":2,"ty":1}],"ents":[{"n":"Skin2_Lowe_turret_01"},{"n":"Lowe_Skin2_Turret_Idle.sc2","p":0},{"n":"ParticleEffect_Idle_Turret","p":1}],"fx":[{"d":"372eb3698591a4c1","e":2,"lod":[5.0,35.0,75.0,150.0],"m":[1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0]}],"scripts":{}}
