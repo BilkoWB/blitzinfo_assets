@@ -17143,7 +17143,7 @@
      270.1
     ]
    },
-   "scene": "5305e782368d38cf98cc1f9d997d31ab",
+   "scene": "157ed511f39d4bee211ad554572c263e",
    "geom": "86dfe334f5ec6fdb3efbf2f54fee6e0c",
    "hm": "7453273fd8f81a1c28b6bbfed8e8ed72",
    "flora": null,
@@ -17151,9 +17151,10 @@
    "inst": "9cc02d4558b8983063728d4234a4579e",
    "packs": [
     "4cbd48bf238e65cf9bbd2497906c3a7a",
-    "a124d2930cbf9bba40188647c1508e87"
+    "a124d2930cbf9bba40188647c1508e87",
+    "af7bc95ed09146d2310279456d8bdc0b"
    ],
-   "bytes": 25208761,
+   "bytes": 25211471,
    "caps": {
     "color": 256,
     "normal": 0,
