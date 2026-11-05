@@ -1,7 +1,7 @@
 {
  "format": 1,
  "client": "wg",
- "latest": "12.0_ST",
+ "latest": "2.0_ST",
  "versions": [
   {
    "id": "1.0",
@@ -894,7 +894,7 @@
    "from": "11.21.0_OT"
   },
   {
-   "id": "12.0_ST",
+   "id": "2.0_ST",
    "game": "11.22_supertest_tier11_4 (11.4.0.119)",
    "from": "11.21"
   }
