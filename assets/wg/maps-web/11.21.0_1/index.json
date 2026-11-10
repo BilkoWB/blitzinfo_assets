@@ -18467,7 +18467,18 @@
      0.0
     ]
    },
-   "pic": "317fd6d6b9afab8918fb20f724968f8c"
+   "pic": "317fd6d6b9afab8918fb20f724968f8c",
+   "top": {
+    "full": "54577b34be21d762f95d6ddfa55ca828",
+    "mid": "fe0e533877adce9d86ce7a470c1a47b4",
+    "small": "283adcc7d7f9a3593c76a089c7d1ae92",
+    "rect": [
+     -270.95,
+     -270.35,
+     270.45,
+     271.05
+    ]
+   }
   },
   "erlenberg_old": {
    "scene": "34be0c3757354fe190dc89803a0fe411",
@@ -18520,7 +18531,18 @@
      0.0
     ]
    },
-   "pic": "b7c481b9b2522e5445c447a44833bcb5"
+   "pic": "b7c481b9b2522e5445c447a44833bcb5",
+   "top": {
+    "full": "8e99f94b9cb20ac254a4763e7b8ab427",
+    "mid": "7294944619a2a410fecb3a750e354122",
+    "small": "cd605defeb0f99e609869397d66c221e",
+    "rect": [
+     -260.89,
+     -259.57,
+     269.09,
+     270.41
+    ]
+   }
   },
   "savanna_old": {
    "scene": "bed3bcc2fa6ad08bbd78622ec16dd2db",
@@ -18572,7 +18594,18 @@
      0.0
     ]
    },
-   "pic": "ad80b46d14cec191d4d2fb6cdfad1ced"
+   "pic": "ad80b46d14cec191d4d2fb6cdfad1ced",
+   "top": {
+    "full": "1d2725ec4471b24bcc2da04c855313d5",
+    "mid": "b02f405cbe529076711d3118eeee358c",
+    "small": "5350cfcff1090d8312277f30b6208998",
+    "rect": [
+     -289.76,
+     -296.35,
+     292.11,
+     285.51
+    ]
+   }
   }
  },
  "gz": true,

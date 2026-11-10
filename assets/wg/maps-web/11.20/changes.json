@@ -4,11 +4,7 @@
  "version": "11.20",
  "from": "11.18",
  "added": [],
- "removed": [
-  "amigosville_old",
-  "erlenberg_old",
-  "savanna_old"
- ],
+ "removed": [],
  "changed": {
   "02_desert_train_dt": {
    "keys": [
